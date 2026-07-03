@@ -1,0 +1,1956 @@
+[
+    {
+        "query": "Management of laryngeal carcinoma",
+        "results": {
+            "books": [
+                [
+                    "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                    0.8732563257217407
+                ],
+                [
+                    "head and neck tumors.pdf",
+                    0.8622881174087524
+                ],
+                [
+                    "cancer-principles-and-practice-of-oncology-6e.pdf",
+                    0.8513960242271423
+                ]
+            ],
+            "chapters": [
+                [
+                    [
+                        "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                        83
+                    ],
+                    0.9105851054191589
+                ],
+                [
+                    [
+                        "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                        74
+                    ],
+                    0.9016146063804626
+                ],
+                [
+                    [
+                        "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                        66
+                    ],
+                    0.9008183479309082
+                ],
+                [
+                    [
+                        "cancer-principles-and-practice-of-oncology-6e.pdf",
+                        45
+                    ],
+                    0.9003012180328369
+                ],
+                [
+                    [
+                        "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                        3
+                    ],
+                    0.8962056636810303
+                ],
+                [
+                    [
+                        "cancer-principles-and-practice-of-oncology-6e.pdf",
+                        46
+                    ],
+                    0.8953826427459717
+                ],
+                [
+                    [
+                        "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                        85
+                    ],
+                    0.8949620127677917
+                ],
+                [
+                    [
+                        "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                        61
+                    ],
+                    0.8936911821365356
+                ],
+                [
+                    [
+                        "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                        67
+                    ],
+                    0.8935889005661011
+                ],
+                [
+                    [
+                        "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                        89
+                    ],
+                    0.8927873373031616
+                ]
+            ],
+            "sections": [
+                [
+                    [
+                        "cancer-principles-and-practice-of-oncology-6e.pdf",
+                        45,
+                        400
+                    ],
+                    0.9336237907409668
+                ],
+                [
+                    [
+                        "cancer-principles-and-practice-of-oncology-6e.pdf",
+                        45,
+                        329
+                    ],
+                    0.9289336204528809
+                ],
+                [
+                    [
+                        "cancer-principles-and-practice-of-oncology-6e.pdf",
+                        45,
+                        316
+                    ],
+                    0.9277783632278442
+                ],
+                [
+                    [
+                        "cancer-principles-and-practice-of-oncology-6e.pdf",
+                        45,
+                        367
+                    ],
+                    0.9272659420967102
+                ],
+                [
+                    [
+                        "cancer-principles-and-practice-of-oncology-6e.pdf",
+                        45,
+                        373
+                    ],
+                    0.9246054887771606
+                ],
+                [
+                    [
+                        "cancer-principles-and-practice-of-oncology-6e.pdf",
+                        45,
+                        471
+                    ],
+                    0.9245119094848633
+                ],
+                [
+                    [
+                        "cancer-principles-and-practice-of-oncology-6e.pdf",
+                        45,
+                        366
+                    ],
+                    0.9224023818969727
+                ],
+                [
+                    [
+                        "cancer-principles-and-practice-of-oncology-6e.pdf",
+                        45,
+                        398
+                    ],
+                    0.9218730330467224
+                ],
+                [
+                    [
+                        "cancer-principles-and-practice-of-oncology-6e.pdf",
+                        45,
+                        374
+                    ],
+                    0.9211069345474243
+                ],
+                [
+                    [
+                        "cancer-principles-and-practice-of-oncology-6e.pdf",
+                        45,
+                        452
+                    ],
+                    0.9205596446990967
+                ],
+                [
+                    [
+                        "cancer-principles-and-practice-of-oncology-6e.pdf",
+                        45,
+                        438
+                    ],
+                    0.919285774230957
+                ],
+                [
+                    [
+                        "cancer-principles-and-practice-of-oncology-6e.pdf",
+                        45,
+                        371
+                    ],
+                    0.9191579818725586
+                ],
+                [
+                    [
+                        "cancer-principles-and-practice-of-oncology-6e.pdf",
+                        45,
+                        445
+                    ],
+                    0.9186936020851135
+                ],
+                [
+                    [
+                        "cancer-principles-and-practice-of-oncology-6e.pdf",
+                        45,
+                        441
+                    ],
+                    0.9181130528450012
+                ],
+                [
+                    [
+                        "cancer-principles-and-practice-of-oncology-6e.pdf",
+                        45,
+                        489
+                    ],
+                    0.9180918335914612
+                ],
+                [
+                    [
+                        "cancer-principles-and-practice-of-oncology-6e.pdf",
+                        45,
+                        404
+                    ],
+                    0.91791170835495
+                ],
+                [
+                    [
+                        "cancer-principles-and-practice-of-oncology-6e.pdf",
+                        45,
+                        409
+                    ],
+                    0.917759895324707
+                ],
+                [
+                    [
+                        "cancer-principles-and-practice-of-oncology-6e.pdf",
+                        45,
+                        413
+                    ],
+                    0.9170951247215271
+                ],
+                [
+                    [
+                        "cancer-principles-and-practice-of-oncology-6e.pdf",
+                        45,
+                        412
+                    ],
+                    0.9170461893081665
+                ],
+                [
+                    [
+                        "cancer-principles-and-practice-of-oncology-6e.pdf",
+                        45,
+                        411
+                    ],
+                    0.9167258739471436
+                ],
+                [
+                    [
+                        "cancer-principles-and-practice-of-oncology-6e.pdf",
+                        45,
+                        416
+                    ],
+                    0.9166992902755737
+                ],
+                [
+                    [
+                        "cancer-principles-and-practice-of-oncology-6e.pdf",
+                        45,
+                        397
+                    ],
+                    0.9164819717407227
+                ],
+                [
+                    [
+                        "cancer-principles-and-practice-of-oncology-6e.pdf",
+                        45,
+                        473
+                    ],
+                    0.9159143567085266
+                ],
+                [
+                    [
+                        "cancer-principles-and-practice-of-oncology-6e.pdf",
+                        45,
+                        406
+                    ],
+                    0.9154751300811768
+                ],
+                [
+                    [
+                        "cancer-principles-and-practice-of-oncology-6e.pdf",
+                        45,
+                        402
+                    ],
+                    0.9154655933380127
+                ],
+                [
+                    [
+                        "cancer-principles-and-practice-of-oncology-6e.pdf",
+                        45,
+                        394
+                    ],
+                    0.9153444170951843
+                ],
+                [
+                    [
+                        "cancer-principles-and-practice-of-oncology-6e.pdf",
+                        45,
+                        484
+                    ],
+                    0.9152602553367615
+                ],
+                [
+                    [
+                        "cancer-principles-and-practice-of-oncology-6e.pdf",
+                        45,
+                        315
+                    ],
+                    0.915152907371521
+                ],
+                [
+                    [
+                        "cancer-principles-and-practice-of-oncology-6e.pdf",
+                        45,
+                        485
+                    ],
+                    0.914788544178009
+                ],
+                [
+                    [
+                        "cancer-principles-and-practice-of-oncology-6e.pdf",
+                        45,
+                        364
+                    ],
+                    0.9146866798400879
+                ]
+            ],
+            "documents": []
+        }
+    },
+    {
+        "query": "TNM staging of laryngeal cancer?",
+        "results": {
+            "books": [
+                [
+                    "head and neck tumors.pdf",
+                    0.8791549205780029
+                ],
+                [
+                    "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                    0.8725131750106812
+                ],
+                [
+                    "2018-ESMO-Handbook-of-Immuno-Oncology.pdf",
+                    0.8576496243476868
+                ]
+            ],
+            "chapters": [
+                [
+                    [
+                        "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                        55
+                    ],
+                    0.9134528636932373
+                ],
+                [
+                    [
+                        "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                        73
+                    ],
+                    0.9050450325012207
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        6
+                    ],
+                    0.9036235809326172
+                ],
+                [
+                    [
+                        "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                        52
+                    ],
+                    0.9017764925956726
+                ],
+                [
+                    [
+                        "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                        85
+                    ],
+                    0.9008806943893433
+                ],
+                [
+                    [
+                        "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                        83
+                    ],
+                    0.8973348140716553
+                ],
+                [
+                    [
+                        "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                        74
+                    ],
+                    0.8965345621109009
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7
+                    ],
+                    0.8963124752044678
+                ],
+                [
+                    [
+                        "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                        65
+                    ],
+                    0.8934669494628906
+                ],
+                [
+                    [
+                        "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                        82
+                    ],
+                    0.8926282525062561
+                ]
+            ],
+            "sections": [
+                [
+                    [
+                        "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                        65,
+                        18
+                    ],
+                    0.9499550461769104
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        38
+                    ],
+                    0.9258109331130981
+                ],
+                [
+                    [
+                        "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                        73,
+                        1
+                    ],
+                    0.9218990802764893
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        37
+                    ],
+                    0.9212687611579895
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        32
+                    ],
+                    0.9197697639465332
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        84
+                    ],
+                    0.9196866750717163
+                ],
+                [
+                    [
+                        "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                        55,
+                        0
+                    ],
+                    0.9195924401283264
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        36
+                    ],
+                    0.918509304523468
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        93
+                    ],
+                    0.9162917733192444
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        57
+                    ],
+                    0.9161145687103271
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        49
+                    ],
+                    0.9156728386878967
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        25
+                    ],
+                    0.9142931699752808
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        15
+                    ],
+                    0.9131734371185303
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        31
+                    ],
+                    0.9123218059539795
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        70
+                    ],
+                    0.9121419191360474
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        43
+                    ],
+                    0.9112939238548279
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        61
+                    ],
+                    0.9110337495803833
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        18
+                    ],
+                    0.9105432033538818
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        39
+                    ],
+                    0.9100368618965149
+                ],
+                [
+                    [
+                        "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                        65,
+                        21
+                    ],
+                    0.9093604683876038
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        29
+                    ],
+                    0.9090364575386047
+                ],
+                [
+                    [
+                        "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                        65,
+                        7
+                    ],
+                    0.9083600044250488
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        16
+                    ],
+                    0.9068558216094971
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        60
+                    ],
+                    0.9063101410865784
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        80
+                    ],
+                    0.9062576293945312
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        81
+                    ],
+                    0.9059722423553467
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        339
+                    ],
+                    0.9057099223136902
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        63
+                    ],
+                    0.9053879380226135
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        92
+                    ],
+                    0.9052755832672119
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        218
+                    ],
+                    0.9051940441131592
+                ]
+            ],
+            "documents": [
+                {
+                    "book": "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                    "chapter": 55,
+                    "section": 0,
+                    "text": "). Staging \u2022 The staging of small bowel carcinoma follows the TNM system (see M https://cancerstaging.org to download the TNM staging). \u2022 There is no uniformly accepted staging and grading system for neuroendocrine tumours. The two most commonly used are the American Joint Committee on Cancer (AJCC) and the WHO systems. \u2022 The TNM staging of small bowel neuroendocrine tumours can be downloaded from M https://cancerstaging.org. \u2022 The WHO guidelines divide tumours into well differentiated (grades 1 and 2) and poorly differentiated (grade 3), with G1/2 tumours being known as carcinoids and G3 as neuroendocrine carcinomas (see Table 17.2). \u2022 The staging of small bowel lymphomas follows the Ann Arbor system (see Table 24.8). Table 17.2 WHO grading of neuroendocrine tumours Low (G1) <2 mitoses/10 HPF and \u22642% Ki-67 index Intermediate (G2) 2\u201320 mitoses/10 HPF and 3\u201320% Ki-67 index High (G3) >20 mitoses/HPF and >20% Ki-67 index HPF, high-powered field; Ki-67, proliferation index. reproduced from rindi G, Arnold r, Bosman FT et al. (2010) Nomenclature and classification of neuroendocrine neoplasms of the digestive system. In Bosman FT, Hruban rH, Theise ND (eds), WHO classification of tumours of the digestive system. Lyon: IArC; 13\u201314, with permission from WHO. 334 CHAPTer 17 Upper gastrointestinal cancer Treatment Adenocarcinoma Potentially curable disease: surgical resection \u2022 The treatment of choice for operable small bowel tumours, and 70\u201380% are resectable at presentation. \u2022 For lesions of the proximal duodenum, a pancreatoduodenectomy is required, but, for the remainder of the duodenum, jejunum, and ileum, segmental resection is usually possible. For distal ileal lesions, a right hemicolectomy is often appropriate. \u2022 Adjuvant/neoadjuvant therapy. \u2022 The 5y survival of small bowel adenocarcinoma ranges from 65% for duodenal, jejunal, and proximal ileal tumours to 30% for distal ileal cancers. Locally advanced and metastatic disease \u2022 Palliative resection is sometimes worthwhile",
+                    "score": 3.5545129776000977
+                },
+                {
+                    "book": "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                    "chapter": 55,
+                    "section": 0,
+                    "text": "according to the TNM classification (see M https://cancerstaging.org to download the TNM staging). The Cancer of the Liver Italian Program (CLIP), Japanese integrated score (JIS), and Okuda scores are also used by some groups. 342 CHAPTer 17 Upper gastrointestinal cancer Nor mal /one.alt0%\u2013/one.alt9% 30%\u201339%20%\u201329% Enucleation Enucleation Not indicated f or hepatectomyLimited r esection Limited r esectionSegmentectom yLeft -sided hepatectomy Right -sided sectoriectom y /one.alt./one.alt\u2013/one.alt.5mg/dL IC GR/one.alt5 T risector ectom y bisector ectom y None or c ontr olled Ascites Not c ontr olled /one.alt.6\u2013/one.alt.9mg/dL \u22652.0mg/dL \u226540% To tal bilirubin le ve l Nor mal Fig. 17.2 Makuuchi schema for determining respectability, based on ICG clearance. reproduced with permission from Professor M. Makuuchi.HePATIC 343 344 CHAPTer 17 Upper gastrointestinal cancer Treatment of hepatocellular carcinoma Potentially curable disease Surgical resection \u2022 75% of all patients are suitable for curative treatment. \u2022 Liver resection and transplantation are both well-established options for the curative treatment of HCC, with the decision dependent on the presence, or not, of concomitant hepatic parenchymal disease and liver function. More recently, the results of ablation have suggested that this is a third option for the provision of long-term survival. \u2022 The Barcelona Clinic Liver Cancer (BCLC) system is widely used to determine management (see Fig. 17.3) and is advocated by AASLD and eASL as a basis for planning treatment. The UK guidelines are currently awaiting an update but previously followed similar principles. Liver resection \u2022 The treatment of choice for patients with HCC in the absence of significant hepatic dysfunction, and so used for Child\u2013Pugh A and B patients. \u2022 A full work-up, followed by MDT discussion, is critical to ensure that defined management pathways are followed. Therefore, for HCCs, in addition to the standard preoperative work-up, the hepatic synthetic function must be assessed and classified, the FLr calculated",
+                    "score": 1.2761807441711426
+                },
+                {
+                    "book": "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                    "chapter": 55,
+                    "section": 0,
+                    "text": "carcinoma. Lancet 362, 1907\u201317. Llovet JM, ricci S, Mazzaferro V, et al. (2008). Sorafenib in advanced hepatocellular carcinoma. N Engl J Med 359, 378\u201390. Makuuchi M, Kosuge T, Takayama T, et al. (1993). Surgery for small liver cancers. Semin Surg Oncol 9, 298\u2013304. Qi X, Tang Y, An D, Bai M, et al. (2013). radiofrequency ablation versus hepatic resection for small hepatocellular carcinoma: a meta-analysis of randomized controlled trials. J Clin Gastroenterol 48, 450\u20137. roxburgh P , evans TrJ (2008). Systemic therapy of hepatocellular carcinoma: are we making pro - gress? Adv Ther 25, 1089\u2013104. Shindoh J, Tzeng C-WD, Vauthey J-N (2012). Portal vein embolization for hepatocellular carcinoma. Liver Cancer 1, 159\u201367. Shiraha H, Yamamoto K, Namba M (2013). Human hepatocyte carcinogenesis. Int J Oncol 42, 1133\u20138. Torbenson M (2012). Fibrolamellar carcinoma: 2012 update. Scientifica 2012, 1\u201315. 350 CHAPTer 17 Upper gastrointestinal cancer Liver metastases By far, the commonest tumours metastasizing to the liver are those arising from the colon and rectum. This section will therefore concentrate on colo- rectal liver metastases (CrLM), and other tumours developing liver metas- tases will be considered in the chapters relevant to the \ue000\u00b0 lesions. There have been great advances in the management of CrLM, and there are now many options, so a detailed MDT discussion of every case is imperative. Colorectal liver metastases Epidemiology \u2022 Liver metastases develop in 750% of patients with colorectal cancer. \u2022 7 half of CrLM are identified at the time of diagnosis of the \ue000\u00b0 (synchronous), and the others are detected later (metachronous), usually within 3y of the index presentation. \u2022 In the UK, there are 42 000 new colorectal cancers diagnosed each year, and so around 20 000 would be expected to present with, or develop, CrLM. \u2022 The gender of CrLM follows that of colorectal cancer,",
+                    "score": -6.325068473815918
+                },
+                {
+                    "book": "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                    "chapter": 55,
+                    "section": 0,
+                    "text": "hallmarks** 4-phase CT or d ynamic c ontrast -enhance d MRI >2cm Biopsy Biopsy /one.alt\u20132c m 4-phase CT/d ynamic c ontrast -enhanc ed MRIHePATIC 341 Table 17.3 Child\u2013Pugh scoring system for degree of hepatic impairment 1 2 3 Encephalopathy (grade) None Mild Marked Albumin (g/L) >35 28\u201335 <28 Ascites None Mild Marked Prothrombin time prolonged (s) 1\u20134 4\u20136 >6 Bilirubin (micromole/L) <34 34\u201350 >50 Grade A, <7\u2014good operative risk. Grade B, 7\u20139\u2014moderate operative risk. Grade C, >9\u2014poor operative risk. \u2022 Identification of HCC on two modalities is usually adequate for diagnosis, in particular if AFP is elevated, and a histological diagnosis is not normally required prior to treatment. However, a biopsy may be carried out on occasions where the radiological diagnosis is in doubt. \u2022 It is important to assess the synthetic function of the liver, as the degree of impairment of the liver function influences treatment decisions (see Table 17.3). \u2022 AFP is increased in 40\u201360% of HCCs. AFP >400ng/mL is likely to represent HCC, and AFP levels correlate with the tumour stage. However, a normal AFP does not exclude HCC; indeed, AFP is not elevated in all patients with HCC and is normal in most patients with the fibrolamellar variant of HCC. \u2022 Indocyanine green (ICG) clearance is used to provide a functional assessment of the liver and is the basis of determining suitability for resection (see Fig. 17.2). \u2022 PVe is used to increase the volume of the FLr prior to resection in patients with Child\u2013Pugh grade A cirrhosis. If the ICG clearance is <10%, then PVe is indicated if the FLr is \u226440%. For an ICG clearance of 10\u201315%, then PVe is indicated for an FLr of \u226450%. ICG is not indicated for an ICG clearance of >20%. Staging \u2022 Staging of HCCs is usually performed",
+                    "score": -6.338073253631592
+                },
+                {
+                    "book": "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                    "chapter": 55,
+                    "section": 0,
+                    "text": "whether they are unifocal or multifocal. Genetic analyses have shown the independent development of multifocal nodules, such that they do not represent intrahepatic metastases. Multicentric HCCs are usually small, have a well-dfifferentiated periphery, but varying pathology. They have a high rate of local recurrence, even after curative resection. \u2022 Most HCCs associated with cirrhosis show an expansile growth pattern with a fibrous capsule and intra-tumoral septae, whereas those in non-cirrhotic livers do not usually have a capsule and are generally larger at presentation. Haemorrhage and necrosis are commonly seen within HCCs. \u2022 The tumour cells resemble hepatocytes, and the stroma is composed of sinusoid-like blood spaces, lined by endothelial cells. Microscopically, several different architectural patterns are observed: trabecular\u2014most common in well- and moderately differentiated HCCs; pseudoglandular, also common; compact, appears solid; and scirrhous, rare. \u2022 The degree of differentiation has prognostic importance; 40% of tumours of 1\u20133cm have two or more grades, with the lesser degree of 338 CHAPTer 17 Upper gastrointestinal cancer differentiation centrally surrounded by a better grade peripherally. The percentage of well-differentiated HCCs decreases, as size increases. \u2022 Well\u2014usually <2cm, minimal atypia, an increased nuclear:cytoplasmic ratio, mainly trabecular or pseudoglandular pattern, and fat is frequently seen. \u2022 Moderate\u2014usually >3cm, mainly trabecular or pseudoglandular, but sometimes a solid pattern, abundant eosinophillic cytoplasm and large round nucleoli with distinct nucleoli, and bile often seen. \u2022 Poor\u2014solid or scirrhous pattern, no distinct sinusoid-like blood spaces, increased nuclear:cytoplasmic ratio, prominent polymorphism, and giant cells. \u2022 Tumour progression occurs through a number of mechanisms\u2014local expansion and compression of surrounding structures, intrahepatic metastases, vascular invasion to the portal veins (35\u201380%) or hepatic veins (20%), and via the biliary tree (5%). Distant metastases are not uncommon, with sites including the lungs, lymph nodes, and bone. \u2022 The carcinogenesis of HCC is not completely understood.",
+                    "score": -6.995684623718262
+                },
+                {
+                    "book": "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                    "chapter": 55,
+                    "section": 0,
+                    "text": "low tumour response rates. SMALL INTeSTINAL 335 \u2022 Combination chemotherapy (one or more of streptozotocin, fluorouracil, doxorubicin carboplatin, paclitaxel, and topotecan) regimens are usually favoured for the management of faster-growing disease, and aggressive and atypical carcinoid tumours, but evidence for such therapy is limited. \u2022 Both bevacizumab (VeGF inhibitor) and sunitinib (TKI) can improve PFS and OS in patients with pancreatic neuroendocrine tumours, compared to supportive care, but, so far, there have been no studies for small bowel carcinoids. Locally advanced and metastatic disease \u2022 Liver metastases may be suitable for resection in a small percentage of patients. \u2022 Lesions not suitable for resection can be treated by means of rFA, with open/laparoscopic or percutaneous techniques. \u2022 Liver transplantation can be considered for patients with liver-limited high-burden disease. \u2022 Hepatic artery embolization may be used to palliate painful, refractory liver metastases. Lymphoma \u2022 The treatment of lymphoma depends on the subtype and stage. \u2022 Marginal\u2014stage I disease often responds to H. pylori irradiation therapy. Stage II lymphoma is treated by means of resection and post-operative chemotherapy (see E Management, p. 588). Stages III and IV disease is treated by means of combination chemotherapy. \u2022 Mantle\u2014combination chemotherapy, including rituximab, is the mainstay of treatment. Surgery is considered in diffuse disease because of risk of perforation during chemotherapy. Bone marrow transplantation may be considered in younger patients. \u2022 The 5y survival for small bowel lymphoma is in the order of 25% but varies according to subtype. Further reading Anzidei M, Napoli A, Zini C, Kirchin MA, Catalano C, Passariello r (2011). Malignant tumours of the small intestine: a review of histopathology, multidetector CT and MrI aspects. Br J Radiol 84, 677\u201390. Delle Fave G, Kwekkeboom DJ, Van Cutsem e, et al. (2012). eNeTS Consensus Guidelines for the management of patients with gastroduodenal",
+                    "score": -7.840246677398682
+                },
+                {
+                    "book": "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                    "chapter": 55,
+                    "section": 0,
+                    "text": "for locally advanced or metastatic tumours that are obstructing or bleeding. \u2022 Palliative chemotherapy regimens are similar to those used to palliate advanced colon cancer. Neuroendocrine Potentially curable disease \u2022 r esection, where possible; however, metastases are common at presentation, even when \ue000\u00b0 tumours are small. \u2022 Small bowel carcinoids are frequently multifocal, and so a careful assessment of the whole bowel is required at laparotomy. \u2022 The segment of the bowel should be excised with a good margin, and lymph nodes draining the excised segment should be removed en bloc. \u2022 There is a benefit in resecting the \ue000\u00b0 tumour, even in the presence of metastatic disease. However, if the carcinoid syndrome is present, then the patient should ideally receive octreotide (200 micrograms tds s/c), together with hydration and careful electrolyte management, to prevent a carcinoid crisis prior to surgical intervention. If a crisis does arise, it must be treated immediately with IV octreotide (300 micrograms), followed by an infusion of 50\u2013100 micrograms/h. \u2022 The 5y survival for neuroendocrine tumours of the small bowel is in the order of 60\u201375%. Adjuvant/neoadjuvant therapy \u2022 Somatostatin analogues are effective in controlling symptoms in patients with the carcinoid syndrome, in particular diarrhoea and flushing, with a reduction in biochemical markers in up to 40% of patients, stabilization of tumour growth in 724\u201357% of patients, but with partial or complete tumour responses in <10% of patients. They block all GI hormones and so reduce the transit time and intestinal secretions, thus predisposing patients to malabsorption and gallstone formation. Doses commence at 50 micrograms tds and can increase to 500 micrograms tds. Depot preparations are available, once the symptoms are controlled. \u2022 Interferon alfa is used in patients with symptoms, despite maximal somatostatin analogue therapy. results are variable, with symptom control in 750%, but",
+                    "score": -7.959509372711182
+                },
+                {
+                    "book": "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                    "chapter": 55,
+                    "section": 0,
+                    "text": "immunosuppression Infection\u2014local or systemic Drug-related toxicity\u2014cardiovascular, renal, neurological, bone Post-transplant malignancies 348 CHAPTer 17 Upper gastrointestinal cancer \u2022 The main downside to rFA is a high local recurrence rate, reported to be 83% at 4y in one prospective study. results of percutaneous rFA, in terms of recurrence and survival, are inferior to rFA performed under direct vision. \u2022 The OS for HCC is in the order of 5% at 5y. Following liver resection, the 5y survival is around 70%, and a similar success is reported, following transplantation (up to 75%). The results of rFA for HCC at 40\u201370% approach those of resection in some series, but a recent meta-analysis has shown that, whilst the early morbidity of resection is greater, the long-term outcomes, in terms of recurrence and survival, are superior for resection. \u2022 A number of factors are associated with prognosis, following resection/ transplantation for HCC, the most commonly reported in multivariate analyses being the presence of vascular invasion, the tumour stage, the tumour grade, and the AFP level. Adjuvant and neoadjuvant therapy \u2022 No adjuvant or neoadjuvant therapies are recommended for HCC, although both approaches are the subjects of ongoing research studies. Locally advanced and metastatic disease \u2022 Ablative techniques (as described in E Ablation, p. 347) may be used to treat unresectable locally advanced disease and help in the palliation of metastatic disease. \u2022 Two, out of seven, rCTs have shown a survival benefit for TACe, compared with conservative management, which is confirmed by a meta-analysis of these seven studies. \u2022 Patient selection for TACe is crucial to avoid treatment-induced liver failure. \u2022 Most patients are not suitable for surgery, percutaneous ablation, or TACe, or develop progressive disease after these interventions. \u2022 Cytotoxic chemotherapy regimens have low objective response rates and no survival benefit in advanced disease.",
+                    "score": -8.005696296691895
+                },
+                {
+                    "book": "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                    "chapter": 55,
+                    "section": 0,
+                    "text": "alternating electrical current to cause frictional heating, leading to coagulative necrosis and tissue dessication. \u2022 evidence would suggest that, for BCLC very early and some early-stage tumours, rFA is effective, offering cure in selected patients (although further data are required to confirm this) or at least a bridge to resection or transplantation. \u2022 rFA may be performed percutaneously in the radiology suite or during an open or laparoscopic operation. The procedure involves inserting an ablation catheter into the tumour under ultrasound control. The number of ablations required to treat a lesion will depend on its size and accessibility, as well as the type of device used, as they differ in their characteristics. Tumour seeding is minimized by burning the needle tract, as it is withdrawn. Care must be taken not to burn too close to the bile ducts, as this may lead to stenosis or rupture of the bile duct, with subsequent biloma formation. Major vessels exert a cooling effect due to the \u2018heat sink\u2019 effect which may reduce the efficacy of the rFA. For subcapsular lesions, the risk of bleeding and tumour seeding are greater. \u2022 The peri-procedural mortality of rFA is in the order of <0.5%, with an overall complication rate of around 5%, including biliary injury, colonic injury, bleeding (subcapsular haematoma, haemoperitoneum), respiratory (pneumothorax, haemothorax, hydrothorax, pleural effusion), infection (liver abscess, wound, peritonitis), and needle track seeding. Up to one-third of patients experience a post-ablation syndrome, consisting of a flu-like illness with low-grade fever, delayed pain, malaise, myalgia, nausea, and vomiting. It is usually self-limiting, resolving in 7\u201310 days. Table 17.4 Complications of liver transplantation Graft-specific Parenchyma early\u2014\ue000\u00b0 non-function, acute rejection, ischaemia\u2013reperfusion injury, chronic rejection Late\u2014chronic rejection, disease recurrence (HCC or associated liver disease) Biliary Bile leak, anastomotic stricture, ascending cholangitis Hepatic artery/portal vein Thrombosis, stenosis Systemic",
+                    "score": -8.211677551269531
+                },
+                {
+                    "book": "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                    "chapter": 55,
+                    "section": 0,
+                    "text": "neoplasms. Neuroendocrinology 95, 74\u201387. Ghimire P , Wu GY, Zhu L (2011). Primary gastrointestinal lymphoma. World J Gastroenterol 17, 697\u2013707. International Agency for research on Cancer. Tumours of the small intestine. Available at: M http:// www.iarc.fr/en/publications/pdfs-online/pat-gen/bb2/bb2-chap4.pdf. \u00d6berg K, Knigge U, Kwekkeboom D, Perren A; eSMO Guidelines Working Group (2012). Neuroendocrine gastro-entero-pancreatic tumors: eSMO Clinical Practice Guidelines for diagno- sis, treatment and follow-up. Ann Oncol 23 (Suppl 7), 124\u201330. rindi G, Arnold r, Bosman FT, et al. (2010). Nomenclature and classification of neuroendocrine neoplasms of the digestive system. In: Bosman FT, Hruban rH, Theise ND, eds. WHO classification of tumours of the digestive system. Lyon: International Agency for research on Cancer, pp. 13\u201314. Strosberg J (2012). Neuroendocrine tumours of the small intestine. Best Pract Res Clin Gastroenterol 26, 755\u201373. Yao J, Hassan M, Phan A, et al. (2008). One hundred years after \u2018carcinoid\u2019: epidemiology of and prognostic factors for neuroendocrine tumors in 35,825 cases in the United States. J Clin Oncol 26, 3063\u201372. 336 CHAPTer 17 Upper gastrointestinal cancer Hepatic The two commonest \ue000\u00b0 hepatic tumours are HCC and intrahepatic cholan- giocarcinoma, accounting for 75% and 20% of \ue000\u00b0 tumours, respectively, in the UK. HCCs will be discussed in this section, and cholangiocarcinomas in E Biliary tract, p. 376. Liver metastases, the commonest indication for liver resection in Western countries, are also considered in this section. Hepatocellular carcinoma Epidemiology \u2022 The fifth commonest cancer worldwide, with >600 000 cases diagnosed annually, and the third commonest cause of cancer deaths. \u2022 The gender ratio in the UK is 5:3, but, in high incidence areas, the \u2642:\u2640 ratio is as high as 7:1. \u2022 Presents in the sixth decade of life in the Western world, with 70% of cases in the UK aged 65y or older. In high incidence regions, HCCs are frequently",
+                    "score": -8.241354942321777
+                }
+            ]
+        }
+    },
+    {
+        "query": "Supraglottic carcinoma",
+        "results": {
+            "books": [
+                [
+                    "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                    0.8786332011222839
+                ],
+                [
+                    "head and neck tumors.pdf",
+                    0.8674695491790771
+                ],
+                [
+                    "22.-Textbook-of-Medical-Oncology-Fourth-Edition-Cavalli-Textbook-of-Medical-Oncology-PDFDrive-.pdf",
+                    0.8628692030906677
+                ]
+            ],
+            "chapters": [
+                [
+                    [
+                        "22.-Textbook-of-Medical-Oncology-Fourth-Edition-Cavalli-Textbook-of-Medical-Oncology-PDFDrive-.pdf",
+                        68
+                    ],
+                    0.9127343893051147
+                ],
+                [
+                    [
+                        "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                        65
+                    ],
+                    0.9095707535743713
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        6
+                    ],
+                    0.8997225761413574
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7
+                    ],
+                    0.8988637924194336
+                ],
+                [
+                    [
+                        "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                        82
+                    ],
+                    0.8977219462394714
+                ],
+                [
+                    [
+                        "22.-Textbook-of-Medical-Oncology-Fourth-Edition-Cavalli-Textbook-of-Medical-Oncology-PDFDrive-.pdf",
+                        139
+                    ],
+                    0.8935979604721069
+                ],
+                [
+                    [
+                        "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                        54
+                    ],
+                    0.8928067684173584
+                ],
+                [
+                    [
+                        "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                        85
+                    ],
+                    0.8925144672393799
+                ],
+                [
+                    [
+                        "22.-Textbook-of-Medical-Oncology-Fourth-Edition-Cavalli-Textbook-of-Medical-Oncology-PDFDrive-.pdf",
+                        151
+                    ],
+                    0.890932023525238
+                ],
+                [
+                    [
+                        "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                        105
+                    ],
+                    0.8908635377883911
+                ]
+            ],
+            "sections": [
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        51
+                    ],
+                    0.9252029657363892
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        324
+                    ],
+                    0.9217055439949036
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        29
+                    ],
+                    0.9203686118125916
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        50
+                    ],
+                    0.92017662525177
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        44
+                    ],
+                    0.9193181395530701
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        24
+                    ],
+                    0.919292688369751
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        41
+                    ],
+                    0.9192861318588257
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        43
+                    ],
+                    0.9191174507141113
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        81
+                    ],
+                    0.9177396893501282
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        60
+                    ],
+                    0.9177136421203613
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        23
+                    ],
+                    0.9170253276824951
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        36
+                    ],
+                    0.9166730642318726
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        66
+                    ],
+                    0.9161373972892761
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        61
+                    ],
+                    0.9154994487762451
+                ],
+                [
+                    [
+                        "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                        65,
+                        0
+                    ],
+                    0.9145915508270264
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        80
+                    ],
+                    0.9141895771026611
+                ],
+                [
+                    [
+                        "22.-Textbook-of-Medical-Oncology-Fourth-Edition-Cavalli-Textbook-of-Medical-Oncology-PDFDrive-.pdf",
+                        68,
+                        0
+                    ],
+                    0.9137634634971619
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        12
+                    ],
+                    0.9132978320121765
+                ],
+                [
+                    [
+                        "22.-Textbook-of-Medical-Oncology-Fourth-Edition-Cavalli-Textbook-of-Medical-Oncology-PDFDrive-.pdf",
+                        68,
+                        6
+                    ],
+                    0.913118839263916
+                ],
+                [
+                    [
+                        "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                        65,
+                        7
+                    ],
+                    0.9129756689071655
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        198
+                    ],
+                    0.9125021696090698
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        11
+                    ],
+                    0.9118398427963257
+                ],
+                [
+                    [
+                        "22.-Textbook-of-Medical-Oncology-Fourth-Edition-Cavalli-Textbook-of-Medical-Oncology-PDFDrive-.pdf",
+                        68,
+                        2
+                    ],
+                    0.91141277551651
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        52
+                    ],
+                    0.9112263917922974
+                ],
+                [
+                    [
+                        "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                        65,
+                        11
+                    ],
+                    0.9108314514160156
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        222
+                    ],
+                    0.909968376159668
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        30
+                    ],
+                    0.9098069071769714
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        329
+                    ],
+                    0.9096077084541321
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        37
+                    ],
+                    0.9096076488494873
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        1
+                    ],
+                    0.9090731143951416
+                ]
+            ],
+            "documents": [
+                {
+                    "book": "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                    "chapter": 65,
+                    "section": 0,
+                    "text": "the UK and US). Urgent referral should be made if this persists >6wk. \u2022 A persistent irritating cough and dysphagia or odynophagia (painful swallowing) are characteristic of supraglottic carcinoma, which typically presents with advanced disease, often including a palpable neck mass. \u2022 dyspnoea/stridor can be caused by subglottic cancers that grow circumferentially. These are rare (<5%). \u2022 \u00b1 referred pain in the ear. \u2022 \u00b1 haemoptysis. Cancer of the oral cavity \u2022 Persistent mouth ulcers, painful ulcerative lesion on the lip, or exophytic growth lasting >3wk. \u2022 White or red patches on the tongue, gums, or lining of the mouth. \u2022 dental problems, e.g. loose teeth, dentures no longer fitting. \u2022 dysphagia/odynophagia. \u2022 Numbness/change in sensation of the lower lip or chin. \u2022 Referred pain in the ear. \u2022 dysarthria if there is involvement of the tongue. \u2022 Lymphadenopathy. \u2022 Weight loss. Tumours commonly extend to involve >1 region within the oral cavity: \u2022 tongue, 60% \u2022 floor of the mouth, 15% \u2022 alveolar ridge/retromolar trigone, 10% \u2022 buccal mucosa, 10% \u2022 hard palate, 5%. Cancer of the pharynx The pattern of symptoms tends to differ, according to the \ue000\u00b0 site of disease. Nasopharyngeal cancer \u2022 Cervical lymphadenopathy (up to 90% of patients). \u2022 Nasal symptoms\u2014bleeding, obstruction, or discharge. \u2022 Unilateral hearing loss \u00b1 serous otitis media (2\u00b0 to Eustachian tube blockage) \u00b1 tinnitus. PRESENTATIoN 477 \u2022 headache. \u2022 Cranial nerve palsies due to base of skull invasion. Oropharyngeal cancer \u2022 Sore throat or lump in the throat. \u2022 Pain referred to the ear. Hypopharyngeal cancer \u2022 dysphagia and lump in the throat. \u2022 odynophagia. \u2022 Pain referred to the ear. \u2022 hoarse voice. Cancer of the nasal cavity and paranasal sinuses \u2022 Epistaxis. \u2022 Unilateral nasal obstruction \u00b1 serosanguinous or purulent discharge. \u2022 Pain and paraesthesiae, especially of the",
+                    "score": 4.421817779541016
+                },
+                {
+                    "book": "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                    "chapter": 65,
+                    "section": 0,
+                    "text": "468 ChAPTER 21 Head and neck cancers Introduction \u2022 head and neck cancer encompasses a range of neoplasms arising from different anatomical sites (see Fig. 21.1): \u2022 the larynx\u2014including the supraglottic, glottic, and subglottic regions \u2022 the oral cavity\u2014including the lips, gums, anterior tongue, floor of the mouth, hard palate, and buccal mucosa \u2022 the pharynx\u2014including the nasopharynx, oropharynx, and hypopharynx \u2022 the nasal cavity and paranasal sinuses\u2014maxillary, frontal, ethmoid, and sphenoid \u2022 the salivary glands. \u2022 Malignancy of the head and neck is the fifth commonest cancer worldwide and the commonest in central Asia. \u2022 In the UK: \u2022 the incidence of cancer at each separate anatomical site is relatively low \u2022 >8000 new diagnoses per year \u2022 85% of cases arise in patients aged >50y \u2022 \u2018tends to be a disease of deprivation, with the risk of developing disease four times greater for men living in the most deprived areas\u2019 (Scottish Intercollegiate Guidelines Network, SIGN) \u2022 increasing incidence amongst young people of both sexes. \u2022 The term \u2018head and neck cancer\u2019 includes many different diseases. however, most of the skills required to assess and manage these patients are broadly similar. INTR odUCTIoN 469 Nasal cavity Paranasal sinuses Nasopharynx Oropharynx Pharynx Hypopharynx Larynx Oesophagus Oral cavity Salivary glands Trachea Fig. 21.1 Anatomy of the head and neck.470 ChAPTER 21 Head and neck cancers Aetiology Smoking and alcohol \u2022 Major modifiable risk factors in the Western world. \u2022 Together, they are believed to account for >75% of cases of head and neck cancer. \u2022 The effect on the risk of malignancy is synergistic (multiplicative). \u2022 Cigarette smoking is associated with >10 times greater risk of all head and neck cancers. \u2022 heavy smoking, combined with excess alcohol consumption, results in >35 times the risk of oral cancer of a person",
+                    "score": -0.09534618258476257
+                },
+                {
+                    "book": "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                    "chapter": 65,
+                    "section": 0,
+                    "text": "oGy 475 \u2022 The mucosa adjacent to the carcinoma frequently contains areas of dysplastic changes, CIS, or occult invasive carcinoma \u2022 high risk of multiple \ue000\u00b0 reflects the carcinogenic effects of prolonged exposure to tobacco and alcohol over the whole of the aerodigestive tract and urothelium (\u2018field effect\u2019) \u2022 Second tumours are often clonally distinct and therefore are not felt to represent loco-regional recurrence or metastatic spread from the original \ue000\u00b0. T umours of the salivary glands \u2022 Represent a very different spectrum of diseases, compared to the commoner head and neck tumours. \u2022 The commonest location of a salivary gland tumour is the parotid gland (70\u201385%). \u2022 Most parotid tumours are benign (>75%). \u2022 Tumours of the minor salivary glands represent only 5\u20138% of salivary gland disease, but >80% of these are cancerous. \u2022 The most frequent salivary gland tumour is the pleomorphic adenoma (also known as the mixed parotid tumour): \u2022 a benign epithelial tumour that only rarely undergoes malignant transformation \u2022 local recurrence, following enucleation, is common \u2022 treatment is most commonly with formal parotidectomy. \u2022 Malignant tumours that occur in the salivary glands include: \u2022 mucoepidermoid carcinoma \u2022 adenocarcinoma \u2022 squamous carcinoma \u2022 adenoid cystic carcinoma \u2022 undifferentiated carcinoma \u2022 metastasis from other \ue000\u00b0 sites, e.g. breast or lung cancer \u2022 lymphoma. 476 ChAPTER 21 Head and neck cancers Presentation \u2022 Characteristic local symptoms depend on the site and size of the \ue000\u00b0 lesion. \u2022 Malignancy of the head and neck may not uncommonly present with painless cervical lymphadenopathy. \u2022 Any of the symptoms listed should raise suspicion, particularly when occurring in: \u2022 \u2642 \u2022 >45y old \u2022 the context of heavy alcohol/tobacco usage. Laryngeal cancer \u2022 A hoarse voice is typical if the cancer is affecting the glottis (the commonest site of laryngeal cancer in",
+                    "score": -4.503800392150879
+                },
+                {
+                    "book": "22.-Textbook-of-Medical-Oncology-Fourth-Edition-Cavalli-Textbook-of-Medical-Oncology-PDFDrive-.pdf",
+                    "chapter": 68,
+                    "section": 0,
+                    "text": ": Head and Neck Cancer 137 then once yearly. Medullary cancer should be followed with serum calcitonin and carcino-embryonic antigen (CEA). SALIVARY GLAND TUMORS Introduction Salivary glands contribute to less than 1% of head and neck cancers. The most common salivary gland cancers are localized in the major glands (parotid, submandibular, and sublingual). Carcinomas of the minor salivary glands orig- inate from submucosal glands located in the upper aerodi- gestive tract and are most commonly localized in the soft palate (19%), followed by the paranasal sinuses/nasal cavity (17%), and the tongue (14%) (70). Epidemiology Salivary gland tumors are more frequent in Europe and North America compared to Asia and Africa. They are more common in men than in women with an incidence ratio of 1.3:1 (70). Risk factors for salivary gland cancer include expo- sure to radiation and tobacco use (70). Carcinogenesis Genetic abnormalities in salivary glands cancers include trisomy 8, loss of genetic material (Y chromosome), and loss of heterogeneity in 6q21\u201323.3 and 6q27 (71). These chro- mosomal abnormalities may reflect inactivation of tumor suppressor genes. Specific histological tumor types are also associated with specific abnormalities: adenoid cystic car- cinoma has a translocation [t(6;9)(q21\u201324;p13\u201323)] as well as mucoepidermoid carcinoma [t(11;19)(q14\u201321;p12\u201313)] (71). Among several biological alterations molecular analy- sis has shown Her-2 and EGFR amplification/overexpression particularly in malignant tumors originating from excretory duct, such as salivary duct cancer and adenocarcinoma. Also, androgen receptors have been found to be overex- pressed mainly in the same histotypes. Kit was shown to be overexpressed mainly in ade- noid cystic carcinoma while VEGFR overexpression has been seen in mucoepidermoid cancer and adenoid cystic carcinoma (71). Pathology The most recent pathologic classification for salivary gland cancer is that of the World Health Organization (62) reported in Table 7.5 . Clinical Manifestations Every painless swelling of",
+                    "score": -5.100938320159912
+                },
+                {
+                    "book": "22.-Textbook-of-Medical-Oncology-Fourth-Edition-Cavalli-Textbook-of-Medical-Oncology-PDFDrive-.pdf",
+                    "chapter": 68,
+                    "section": 0,
+                    "text": "a major salivary gland without signs of inflammation is suspicious. More than 80% of the tumors in the parotid are benign while more than 50% of those arising in the submandibular or sublingual glands are malignant. Clinical indicators suggesting a malignant salivary gland tumor are rapid growth, pain, facial nerve involve- ment, and cervical adenopathy. Facial nerve palsy may be a sign of a locally infiltrating parotid cancer. Another symptom is parapharyngeal or palatal fullness. Trismus, skin ulceration, and fistulae may be present in advanced stages. In high-risk patients (documented persistent or at high risk of persistent or recurrent disease), a total thyroidec- tomy followed by 131 I ablation and long-term TSH suppres- sion therapy is indicated (67). In all other patients (low-risk group) radio-ablation is still controversial. Radio-ablation with 131 I will be started three to four weeks after surgery without thyroid substitution therapy. TSH should at that moment be higher than 30 mu/L. In case tri-iodothyronine was started postoperatively, it should be stopped for two weeks before radio-ablation. Long-term TSH suppression is with thyroxine. The dose of thyroxine should gradually be increased until TSH levels are below 0.1 mu/L. Medullary Carcinoma The primary treatment is a total thyroidectomy and lymph node dissection. Adjuvant radiotherapy is not given, but radiotherapy may be used for local control in patients with inoperable or recurrent disease. Targeted radiotherapy with somatostatin analogs or 131 I-meta-iodobenzylguanidine (MIBG) has a very limited value. Chemotherapy based on dacarba- zine either alone or in combination has been associated with tumor reduction in approximately 30% of patients. Anaplastic Carcinoma This is a very aggressive tumor with a median survival of less than six months. Surgery is indicated to maintain an open airway and is followed by external radiotherapy with or without chemotherapy. Some authors claim that chemo- radiation",
+                    "score": -5.8011322021484375
+                },
+                {
+                    "book": "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                    "chapter": 65,
+                    "section": 0,
+                    "text": "oral cavity. \u2022 Categorized as well, moderately, or poorly differentiated, depending on the degree of keratinization. \u2022 Typically, they invade adjacent structures, depending on the site of origin, and spread via the lymphatics to regional lymph nodes in the cervical chain, in preference to blood-borne spread. \u2022 distant metastases are usually associated with advanced or recurrent \ue000\u00b0 tumour and may include mediastinal lymph node, lung, liver, and bone spread. \u2022 There is an association between squamous cell malignancy of the head and neck and several pathological diagnoses believed to represent pre-malignant conditions: \u2022 leukoplakia\u2014hyperparakeratosis \u00b1 underlying epithelial hyperplasia. If this is an isolated abnormality, there is believed to be a \u22645% chance of subsequent malignant change \u2022 erythroplakia\u2014superficial red patches adjacent to normal mucosa. Frequently associated with epithelial dysplasia. Associated with CIS or invasive disease in up to 40% of cases \u2022 dysplasia\u2014or CIS (if it involves the full mucosal thickness). Progression to invasive disease is believed to occur in 15\u201330% of cases. \u2022 A verrucous tumour (also named Ackerman\u2019s tumour): \u2022 variant of well-differentiated SCC \u2022 presents as a whitish, cauliflower-like growth \u2022 histology confirms a pushing margin, with a marked surrounding inflammatory cell response \u2022 lymphatic spread is rare. \u2022 Spindle cell carcinomas behave as SCCs. Other pathologies Histology \u2022 Adenocarcinomas arising from salivary tissue, e.g. in the oral cavity. \u2022 Melanoma. \u2022 Sarcoma, e.g. osteosarcoma, rhabdomyosarcoma. Timing Patients with head and neck squamous cancer are more likely to develop second \ue000\u00b0 cancers than any other group of patients with malignancies. These may be: \u2022 synchronous: \u2022 occurring at, or near, the same time as the original tumour. \u2022 metachronous: \u2022 occurring >6mo later. \u2022 715% of \u2018cured\u2019 patients with previously treated head and neck cancer present with further \ue000\u00b0 (at a rate of 3\u20135% per year) PAThoL",
+                    "score": -6.333949089050293
+                },
+                {
+                    "book": "22.-Textbook-of-Medical-Oncology-Fourth-Edition-Cavalli-Textbook-of-Medical-Oncology-PDFDrive-.pdf",
+                    "chapter": 68,
+                    "section": 0,
+                    "text": "adequate margins. CT scan is useful in the presence of deep infiltrating tumors, high-grade tumors with occult cervical metastases, and in patients with minor salivary gland tumors. The advantages of MRI include multiplanar imaging, elimina- tion of dental artifacts, and the ability to distinguish between a tumor and obstructed secretions. A CT scan of the chest is useful for excluding the presence of distant lung metastasis. Treatment Before treatment, a multidisciplinary team with a head and neck surgeon, a radiotherapist, and a medical oncologist should decide on the most optimal treatment plan for the patient. Table 7.6 TNM Classification of Salivary Gland Tumors Primary tumor (T) \u2022 TX: Primary tumor cannot be assessed \u2022 T0: No evidence of primary tumor \u2022 T1: Tumor 2 cm or less in greatest dimension without extraparenchymal extension \u2022 T2: Tumor more than 2 cm but not more than 4 cm in greatest dimension without extraparenchymal extension \u2022 T3: Tumor more than 4 cm and/or extraparenchymal extension \u2022 T4a: Tumor invades skin, mandible, ear cancal, and/or facial nerve \u2022 T4b: Tumor invades base of skull and/or pterygoid plates and/or encases carotid artery Regional lymph nodes (N) \u2022 NX: Regional lymph nodes cannot be assessed \u2022 N0: No regional lymph node metastasis \u2022 N1: Metastasis in a single ipsilateral lymph node, 3 cm or less in greatest dimension \u2022 N2: Metastasis in a single ipsilateral lymph node, more than 3 cm but not more than 6 cm in greatest dimension, or in multiple ipsilateral lymph nodes, none more than 6 cm in greatest dimension, or in bilateral or contralateral lymph nodes, none more than 6 cm in greatest dimension \u00b0 N2a: Metastasis in a single ipsilateral lymph node more than 3 cm but not more than 6 cm in greatest dimension \u00b0 N2b: Metastasis in multiple",
+                    "score": -6.803516387939453
+                },
+                {
+                    "book": "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                    "chapter": 65,
+                    "section": 0,
+                    "text": "be a genetic susceptibility to some of the head and neck cancers: \u2022 germline mutations in p53 have been associated with oral cancer \u2022 certain MhC profiles are associated with nasopharyngeal cancer \u2022 patients with Fanconi anaemia have a markedly elevated risk of head and neck squamous cell cancer. They also develop significantly greater toxicity with cisplatin chemotherapy and radiotherapy, both treatment modalities commonly used in these cancers. Other environmental agents \u2022 Formaldehyde\u2014cancers of the pharynx and oral cavity. \u2022 hard wood dust\u2014adenocarcinoma of the ethmoids; woodworkers have a 70 times greater relative risk. \u2022 Soft wood dust\u2014SCC of the nasal cavity and paranasal sinuses. \u2022 Radiation exposure\u2014salivary gland tumours, post-radiation sarcoma. 472 ChAPTER 21 Head and neck cancers Epidemiology Laryngeal cancer \u2022 Second commonest of the head and neck cancers, although it comprises <2% of all carcinomas in men. \u2022 The annual incidence is 3\u201310 per 100 000. \u2022 Predominantly a \u2642 disease (75:1 in the UK), as are most head and neck cancers. \u2022 Typical age at diagnosis 40\u201380y, with 775% of cases diagnosed in patients aged >60y. \u2022 Lifetime risk of 1 in 175 for men. \u2022 higher incidence in urban than rural areas. Cancer of the oral cavity \u2022 Worldwide, oral cancer has the highest incidence of the head and neck cancers. \u2022 Relatively uncommon in the UK, accounting for 72% of all new cancer cases in men. \u2022 Patients of South Asian origin are at increased risk. \u2022 \u2642 > \u2640 (72:1). \u2022 In the UK, the lifetime risk of developing oral cancer is estimated to be 1 in 85 for men. Geographical variation in the incidence reflects the differing prevalence of the main risk factors for oral cancer\u2014smoking and alcohol intake. \u2022 10\u201330% of patients with cancer of the oral cavity subsequently develop a",
+                    "score": -7.237500190734863
+                },
+                {
+                    "book": "22.-Textbook-of-Medical-Oncology-Fourth-Edition-Cavalli-Textbook-of-Medical-Oncology-PDFDrive-.pdf",
+                    "chapter": 68,
+                    "section": 0,
+                    "text": "followed by surgery gives a better result. Many patients may present with unresectable neck masses; in this situation chemoradiation with cisplatin represents the standard treatment. In patients with metastatic disease, chemotherapy may be used for palliation. Doxorubicin, paclitaxel, and cisplatin have some activity in these patients (69). Recurrent Disease For recurrent disease in the thyroid bed or cervical lymph nodes of papillary and follicular carcinoma, surgery in com- bination with radio-ablation is the treatment of choice. Metastatic disease should be treated with radio- ablation. Painful bone metastases may be treated with external beam radiotherapy. In radio-iodine-resistant tumors chemotherapy is not effective although some responses have been reported with doxorubicin (less than 20%). Some authors reported promising results in patients with poorly differentiated thyroid cancer treated with chemotherapy preceded by TSH stimulation (68). Targeted therapy with tyrosine kinase inhibitors has been recently proven to be of some interest in radio- iodine-resistant and medullary cancer (66). Promising drugs are axitinib, sorafenib, vandetanib, motesanib, and sunitinib (68). Also, thalidomide has shown some activity (68). Follow up Patients with thyroid cancer should be followed for early detection of recurrence and for efficacy of TSH suppres- sion. Patients are seen every three months during the first two years, then every six months during the third year and 138 Section II: Disease-Specific Part Surgery is the treatment of choice for resectable major and minor salivary glands tumors. A prophylactic neck dissection is not routinely recommended since lymph node metastases occur in only 15% of patients. However, since lymph node metastases occur more frequently in high-grade tumors or in tumors larger than 4 cm, elective lymph node dissection of levels I, II, and III and of levels II, III, IV, and V is recommended for submaxillary-sublingual and parotid gland tumors, respectively. Primary radiotherapy may be used in",
+                    "score": -7.530207633972168
+                },
+                {
+                    "book": "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                    "chapter": 65,
+                    "section": 0,
+                    "text": "on CT \u2022 e.g. in nasopharyngeal cancer, 725% of patients with low cervical or supraclavicular nodes, who have a positive bone scan, will have 2\u00b0. \u2022 PET: \u2022 not used in isolation, as provides inadequate anatomical detail. Histology \u2022 Biopsy\u2014if the \ue000\u00b0 tumour is identified and accessible. The exception is salivary gland tumours when FNA is preferred to biopsy to minimize the risk of tumour seeding. \u2022 FNA\u2014of a metastatic lymph node mass; non-diagnostic in up to 15% of cases, although this figure improves with the use of ultrasound guidance. 480 ChAPTER 21 Head and neck cancers TNM staging \u2022 Staging systems for head and neck cancers are based on the \u2018TNM system\u2019 and are broadly similar for each of the anatomical sites of origin. \u2022 details that differ between the staging systems typically take into account of whether the involvement of particular local structures will affect if radical treatment is appropriate, and hence the effect on the overall prognosis. \u2022 T\u2014the extent of the \ue000\u00b0 tumour: \u2022 generally reflects the size of the tumour \u00b1 involvement of bone or cartilage (T4) \u2022 for some sites, T4 tumours are further divided into potentially resectable (T4a) or unresectable (T4b). \u2022 N\u2014involvement of regional lymph nodes. \u2022 M\u2014the absence (0) or presence (1) of distant metastases or the inability to assess for their presence (X). The AJCC staging system for laryngeal cancer, updated in 2010, is given as an example (see M https://cancerstaging.org to download the TNM staging). TNM STAGING 481 482 ChAPTER 21 Head and neck cancers Management \u2022 Investigation and management should be coordinated by an MdT with expertise in the complex medical, psychological, and functional issues that affect patients with head and neck cancers. \u2022 The MdT should be serving a large enough population, such that they maintain sufficient",
+                    "score": -7.531489372253418
+                }
+            ]
+        }
+    },
+    {
+        "query": "Supraglottic carcinoma",
+        "results": {
+            "books": [
+                [
+                    "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                    0.8786332011222839
+                ],
+                [
+                    "head and neck tumors.pdf",
+                    0.8674695491790771
+                ],
+                [
+                    "22.-Textbook-of-Medical-Oncology-Fourth-Edition-Cavalli-Textbook-of-Medical-Oncology-PDFDrive-.pdf",
+                    0.8628692030906677
+                ]
+            ],
+            "chapters": [
+                [
+                    [
+                        "22.-Textbook-of-Medical-Oncology-Fourth-Edition-Cavalli-Textbook-of-Medical-Oncology-PDFDrive-.pdf",
+                        68
+                    ],
+                    0.9127343893051147
+                ],
+                [
+                    [
+                        "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                        65
+                    ],
+                    0.9095707535743713
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        6
+                    ],
+                    0.8997225761413574
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7
+                    ],
+                    0.8988637924194336
+                ],
+                [
+                    [
+                        "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                        82
+                    ],
+                    0.8977219462394714
+                ],
+                [
+                    [
+                        "22.-Textbook-of-Medical-Oncology-Fourth-Edition-Cavalli-Textbook-of-Medical-Oncology-PDFDrive-.pdf",
+                        139
+                    ],
+                    0.8935979604721069
+                ],
+                [
+                    [
+                        "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                        54
+                    ],
+                    0.8928067684173584
+                ],
+                [
+                    [
+                        "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                        85
+                    ],
+                    0.8925144672393799
+                ],
+                [
+                    [
+                        "22.-Textbook-of-Medical-Oncology-Fourth-Edition-Cavalli-Textbook-of-Medical-Oncology-PDFDrive-.pdf",
+                        151
+                    ],
+                    0.890932023525238
+                ],
+                [
+                    [
+                        "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                        105
+                    ],
+                    0.8908635377883911
+                ]
+            ],
+            "sections": [
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        51
+                    ],
+                    0.9252029657363892
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        324
+                    ],
+                    0.9217055439949036
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        29
+                    ],
+                    0.9203686118125916
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        50
+                    ],
+                    0.92017662525177
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        44
+                    ],
+                    0.9193181395530701
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        24
+                    ],
+                    0.919292688369751
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        41
+                    ],
+                    0.9192861318588257
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        43
+                    ],
+                    0.9191174507141113
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        81
+                    ],
+                    0.9177396893501282
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        60
+                    ],
+                    0.9177136421203613
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        23
+                    ],
+                    0.9170253276824951
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        36
+                    ],
+                    0.9166730642318726
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        66
+                    ],
+                    0.9161373972892761
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        61
+                    ],
+                    0.9154994487762451
+                ],
+                [
+                    [
+                        "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                        65,
+                        0
+                    ],
+                    0.9145915508270264
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        80
+                    ],
+                    0.9141895771026611
+                ],
+                [
+                    [
+                        "22.-Textbook-of-Medical-Oncology-Fourth-Edition-Cavalli-Textbook-of-Medical-Oncology-PDFDrive-.pdf",
+                        68,
+                        0
+                    ],
+                    0.9137634634971619
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        12
+                    ],
+                    0.9132978320121765
+                ],
+                [
+                    [
+                        "22.-Textbook-of-Medical-Oncology-Fourth-Edition-Cavalli-Textbook-of-Medical-Oncology-PDFDrive-.pdf",
+                        68,
+                        6
+                    ],
+                    0.913118839263916
+                ],
+                [
+                    [
+                        "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                        65,
+                        7
+                    ],
+                    0.9129756689071655
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        198
+                    ],
+                    0.9125021696090698
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        11
+                    ],
+                    0.9118398427963257
+                ],
+                [
+                    [
+                        "22.-Textbook-of-Medical-Oncology-Fourth-Edition-Cavalli-Textbook-of-Medical-Oncology-PDFDrive-.pdf",
+                        68,
+                        2
+                    ],
+                    0.91141277551651
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        52
+                    ],
+                    0.9112263917922974
+                ],
+                [
+                    [
+                        "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                        65,
+                        11
+                    ],
+                    0.9108314514160156
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        222
+                    ],
+                    0.909968376159668
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        30
+                    ],
+                    0.9098069071769714
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        329
+                    ],
+                    0.9096077084541321
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        37
+                    ],
+                    0.9096076488494873
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        7,
+                        1
+                    ],
+                    0.9090731143951416
+                ]
+            ],
+            "documents": [
+                {
+                    "book": "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                    "chapter": 65,
+                    "section": 0,
+                    "text": "the UK and US). Urgent referral should be made if this persists >6wk. \u2022 A persistent irritating cough and dysphagia or odynophagia (painful swallowing) are characteristic of supraglottic carcinoma, which typically presents with advanced disease, often including a palpable neck mass. \u2022 dyspnoea/stridor can be caused by subglottic cancers that grow circumferentially. These are rare (<5%). \u2022 \u00b1 referred pain in the ear. \u2022 \u00b1 haemoptysis. Cancer of the oral cavity \u2022 Persistent mouth ulcers, painful ulcerative lesion on the lip, or exophytic growth lasting >3wk. \u2022 White or red patches on the tongue, gums, or lining of the mouth. \u2022 dental problems, e.g. loose teeth, dentures no longer fitting. \u2022 dysphagia/odynophagia. \u2022 Numbness/change in sensation of the lower lip or chin. \u2022 Referred pain in the ear. \u2022 dysarthria if there is involvement of the tongue. \u2022 Lymphadenopathy. \u2022 Weight loss. Tumours commonly extend to involve >1 region within the oral cavity: \u2022 tongue, 60% \u2022 floor of the mouth, 15% \u2022 alveolar ridge/retromolar trigone, 10% \u2022 buccal mucosa, 10% \u2022 hard palate, 5%. Cancer of the pharynx The pattern of symptoms tends to differ, according to the \ue000\u00b0 site of disease. Nasopharyngeal cancer \u2022 Cervical lymphadenopathy (up to 90% of patients). \u2022 Nasal symptoms\u2014bleeding, obstruction, or discharge. \u2022 Unilateral hearing loss \u00b1 serous otitis media (2\u00b0 to Eustachian tube blockage) \u00b1 tinnitus. PRESENTATIoN 477 \u2022 headache. \u2022 Cranial nerve palsies due to base of skull invasion. Oropharyngeal cancer \u2022 Sore throat or lump in the throat. \u2022 Pain referred to the ear. Hypopharyngeal cancer \u2022 dysphagia and lump in the throat. \u2022 odynophagia. \u2022 Pain referred to the ear. \u2022 hoarse voice. Cancer of the nasal cavity and paranasal sinuses \u2022 Epistaxis. \u2022 Unilateral nasal obstruction \u00b1 serosanguinous or purulent discharge. \u2022 Pain and paraesthesiae, especially of the",
+                    "score": 4.421817779541016
+                },
+                {
+                    "book": "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                    "chapter": 65,
+                    "section": 0,
+                    "text": "468 ChAPTER 21 Head and neck cancers Introduction \u2022 head and neck cancer encompasses a range of neoplasms arising from different anatomical sites (see Fig. 21.1): \u2022 the larynx\u2014including the supraglottic, glottic, and subglottic regions \u2022 the oral cavity\u2014including the lips, gums, anterior tongue, floor of the mouth, hard palate, and buccal mucosa \u2022 the pharynx\u2014including the nasopharynx, oropharynx, and hypopharynx \u2022 the nasal cavity and paranasal sinuses\u2014maxillary, frontal, ethmoid, and sphenoid \u2022 the salivary glands. \u2022 Malignancy of the head and neck is the fifth commonest cancer worldwide and the commonest in central Asia. \u2022 In the UK: \u2022 the incidence of cancer at each separate anatomical site is relatively low \u2022 >8000 new diagnoses per year \u2022 85% of cases arise in patients aged >50y \u2022 \u2018tends to be a disease of deprivation, with the risk of developing disease four times greater for men living in the most deprived areas\u2019 (Scottish Intercollegiate Guidelines Network, SIGN) \u2022 increasing incidence amongst young people of both sexes. \u2022 The term \u2018head and neck cancer\u2019 includes many different diseases. however, most of the skills required to assess and manage these patients are broadly similar. INTR odUCTIoN 469 Nasal cavity Paranasal sinuses Nasopharynx Oropharynx Pharynx Hypopharynx Larynx Oesophagus Oral cavity Salivary glands Trachea Fig. 21.1 Anatomy of the head and neck.470 ChAPTER 21 Head and neck cancers Aetiology Smoking and alcohol \u2022 Major modifiable risk factors in the Western world. \u2022 Together, they are believed to account for >75% of cases of head and neck cancer. \u2022 The effect on the risk of malignancy is synergistic (multiplicative). \u2022 Cigarette smoking is associated with >10 times greater risk of all head and neck cancers. \u2022 heavy smoking, combined with excess alcohol consumption, results in >35 times the risk of oral cancer of a person",
+                    "score": -0.09534618258476257
+                },
+                {
+                    "book": "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                    "chapter": 65,
+                    "section": 0,
+                    "text": "oGy 475 \u2022 The mucosa adjacent to the carcinoma frequently contains areas of dysplastic changes, CIS, or occult invasive carcinoma \u2022 high risk of multiple \ue000\u00b0 reflects the carcinogenic effects of prolonged exposure to tobacco and alcohol over the whole of the aerodigestive tract and urothelium (\u2018field effect\u2019) \u2022 Second tumours are often clonally distinct and therefore are not felt to represent loco-regional recurrence or metastatic spread from the original \ue000\u00b0. T umours of the salivary glands \u2022 Represent a very different spectrum of diseases, compared to the commoner head and neck tumours. \u2022 The commonest location of a salivary gland tumour is the parotid gland (70\u201385%). \u2022 Most parotid tumours are benign (>75%). \u2022 Tumours of the minor salivary glands represent only 5\u20138% of salivary gland disease, but >80% of these are cancerous. \u2022 The most frequent salivary gland tumour is the pleomorphic adenoma (also known as the mixed parotid tumour): \u2022 a benign epithelial tumour that only rarely undergoes malignant transformation \u2022 local recurrence, following enucleation, is common \u2022 treatment is most commonly with formal parotidectomy. \u2022 Malignant tumours that occur in the salivary glands include: \u2022 mucoepidermoid carcinoma \u2022 adenocarcinoma \u2022 squamous carcinoma \u2022 adenoid cystic carcinoma \u2022 undifferentiated carcinoma \u2022 metastasis from other \ue000\u00b0 sites, e.g. breast or lung cancer \u2022 lymphoma. 476 ChAPTER 21 Head and neck cancers Presentation \u2022 Characteristic local symptoms depend on the site and size of the \ue000\u00b0 lesion. \u2022 Malignancy of the head and neck may not uncommonly present with painless cervical lymphadenopathy. \u2022 Any of the symptoms listed should raise suspicion, particularly when occurring in: \u2022 \u2642 \u2022 >45y old \u2022 the context of heavy alcohol/tobacco usage. Laryngeal cancer \u2022 A hoarse voice is typical if the cancer is affecting the glottis (the commonest site of laryngeal cancer in",
+                    "score": -4.503800392150879
+                },
+                {
+                    "book": "22.-Textbook-of-Medical-Oncology-Fourth-Edition-Cavalli-Textbook-of-Medical-Oncology-PDFDrive-.pdf",
+                    "chapter": 68,
+                    "section": 0,
+                    "text": ": Head and Neck Cancer 137 then once yearly. Medullary cancer should be followed with serum calcitonin and carcino-embryonic antigen (CEA). SALIVARY GLAND TUMORS Introduction Salivary glands contribute to less than 1% of head and neck cancers. The most common salivary gland cancers are localized in the major glands (parotid, submandibular, and sublingual). Carcinomas of the minor salivary glands orig- inate from submucosal glands located in the upper aerodi- gestive tract and are most commonly localized in the soft palate (19%), followed by the paranasal sinuses/nasal cavity (17%), and the tongue (14%) (70). Epidemiology Salivary gland tumors are more frequent in Europe and North America compared to Asia and Africa. They are more common in men than in women with an incidence ratio of 1.3:1 (70). Risk factors for salivary gland cancer include expo- sure to radiation and tobacco use (70). Carcinogenesis Genetic abnormalities in salivary glands cancers include trisomy 8, loss of genetic material (Y chromosome), and loss of heterogeneity in 6q21\u201323.3 and 6q27 (71). These chro- mosomal abnormalities may reflect inactivation of tumor suppressor genes. Specific histological tumor types are also associated with specific abnormalities: adenoid cystic car- cinoma has a translocation [t(6;9)(q21\u201324;p13\u201323)] as well as mucoepidermoid carcinoma [t(11;19)(q14\u201321;p12\u201313)] (71). Among several biological alterations molecular analy- sis has shown Her-2 and EGFR amplification/overexpression particularly in malignant tumors originating from excretory duct, such as salivary duct cancer and adenocarcinoma. Also, androgen receptors have been found to be overex- pressed mainly in the same histotypes. Kit was shown to be overexpressed mainly in ade- noid cystic carcinoma while VEGFR overexpression has been seen in mucoepidermoid cancer and adenoid cystic carcinoma (71). Pathology The most recent pathologic classification for salivary gland cancer is that of the World Health Organization (62) reported in Table 7.5 . Clinical Manifestations Every painless swelling of",
+                    "score": -5.100938320159912
+                },
+                {
+                    "book": "22.-Textbook-of-Medical-Oncology-Fourth-Edition-Cavalli-Textbook-of-Medical-Oncology-PDFDrive-.pdf",
+                    "chapter": 68,
+                    "section": 0,
+                    "text": "a major salivary gland without signs of inflammation is suspicious. More than 80% of the tumors in the parotid are benign while more than 50% of those arising in the submandibular or sublingual glands are malignant. Clinical indicators suggesting a malignant salivary gland tumor are rapid growth, pain, facial nerve involve- ment, and cervical adenopathy. Facial nerve palsy may be a sign of a locally infiltrating parotid cancer. Another symptom is parapharyngeal or palatal fullness. Trismus, skin ulceration, and fistulae may be present in advanced stages. In high-risk patients (documented persistent or at high risk of persistent or recurrent disease), a total thyroidec- tomy followed by 131 I ablation and long-term TSH suppres- sion therapy is indicated (67). In all other patients (low-risk group) radio-ablation is still controversial. Radio-ablation with 131 I will be started three to four weeks after surgery without thyroid substitution therapy. TSH should at that moment be higher than 30 mu/L. In case tri-iodothyronine was started postoperatively, it should be stopped for two weeks before radio-ablation. Long-term TSH suppression is with thyroxine. The dose of thyroxine should gradually be increased until TSH levels are below 0.1 mu/L. Medullary Carcinoma The primary treatment is a total thyroidectomy and lymph node dissection. Adjuvant radiotherapy is not given, but radiotherapy may be used for local control in patients with inoperable or recurrent disease. Targeted radiotherapy with somatostatin analogs or 131 I-meta-iodobenzylguanidine (MIBG) has a very limited value. Chemotherapy based on dacarba- zine either alone or in combination has been associated with tumor reduction in approximately 30% of patients. Anaplastic Carcinoma This is a very aggressive tumor with a median survival of less than six months. Surgery is indicated to maintain an open airway and is followed by external radiotherapy with or without chemotherapy. Some authors claim that chemo- radiation",
+                    "score": -5.8011322021484375
+                },
+                {
+                    "book": "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                    "chapter": 65,
+                    "section": 0,
+                    "text": "oral cavity. \u2022 Categorized as well, moderately, or poorly differentiated, depending on the degree of keratinization. \u2022 Typically, they invade adjacent structures, depending on the site of origin, and spread via the lymphatics to regional lymph nodes in the cervical chain, in preference to blood-borne spread. \u2022 distant metastases are usually associated with advanced or recurrent \ue000\u00b0 tumour and may include mediastinal lymph node, lung, liver, and bone spread. \u2022 There is an association between squamous cell malignancy of the head and neck and several pathological diagnoses believed to represent pre-malignant conditions: \u2022 leukoplakia\u2014hyperparakeratosis \u00b1 underlying epithelial hyperplasia. If this is an isolated abnormality, there is believed to be a \u22645% chance of subsequent malignant change \u2022 erythroplakia\u2014superficial red patches adjacent to normal mucosa. Frequently associated with epithelial dysplasia. Associated with CIS or invasive disease in up to 40% of cases \u2022 dysplasia\u2014or CIS (if it involves the full mucosal thickness). Progression to invasive disease is believed to occur in 15\u201330% of cases. \u2022 A verrucous tumour (also named Ackerman\u2019s tumour): \u2022 variant of well-differentiated SCC \u2022 presents as a whitish, cauliflower-like growth \u2022 histology confirms a pushing margin, with a marked surrounding inflammatory cell response \u2022 lymphatic spread is rare. \u2022 Spindle cell carcinomas behave as SCCs. Other pathologies Histology \u2022 Adenocarcinomas arising from salivary tissue, e.g. in the oral cavity. \u2022 Melanoma. \u2022 Sarcoma, e.g. osteosarcoma, rhabdomyosarcoma. Timing Patients with head and neck squamous cancer are more likely to develop second \ue000\u00b0 cancers than any other group of patients with malignancies. These may be: \u2022 synchronous: \u2022 occurring at, or near, the same time as the original tumour. \u2022 metachronous: \u2022 occurring >6mo later. \u2022 715% of \u2018cured\u2019 patients with previously treated head and neck cancer present with further \ue000\u00b0 (at a rate of 3\u20135% per year) PAThoL",
+                    "score": -6.333949089050293
+                },
+                {
+                    "book": "22.-Textbook-of-Medical-Oncology-Fourth-Edition-Cavalli-Textbook-of-Medical-Oncology-PDFDrive-.pdf",
+                    "chapter": 68,
+                    "section": 0,
+                    "text": "adequate margins. CT scan is useful in the presence of deep infiltrating tumors, high-grade tumors with occult cervical metastases, and in patients with minor salivary gland tumors. The advantages of MRI include multiplanar imaging, elimina- tion of dental artifacts, and the ability to distinguish between a tumor and obstructed secretions. A CT scan of the chest is useful for excluding the presence of distant lung metastasis. Treatment Before treatment, a multidisciplinary team with a head and neck surgeon, a radiotherapist, and a medical oncologist should decide on the most optimal treatment plan for the patient. Table 7.6 TNM Classification of Salivary Gland Tumors Primary tumor (T) \u2022 TX: Primary tumor cannot be assessed \u2022 T0: No evidence of primary tumor \u2022 T1: Tumor 2 cm or less in greatest dimension without extraparenchymal extension \u2022 T2: Tumor more than 2 cm but not more than 4 cm in greatest dimension without extraparenchymal extension \u2022 T3: Tumor more than 4 cm and/or extraparenchymal extension \u2022 T4a: Tumor invades skin, mandible, ear cancal, and/or facial nerve \u2022 T4b: Tumor invades base of skull and/or pterygoid plates and/or encases carotid artery Regional lymph nodes (N) \u2022 NX: Regional lymph nodes cannot be assessed \u2022 N0: No regional lymph node metastasis \u2022 N1: Metastasis in a single ipsilateral lymph node, 3 cm or less in greatest dimension \u2022 N2: Metastasis in a single ipsilateral lymph node, more than 3 cm but not more than 6 cm in greatest dimension, or in multiple ipsilateral lymph nodes, none more than 6 cm in greatest dimension, or in bilateral or contralateral lymph nodes, none more than 6 cm in greatest dimension \u00b0 N2a: Metastasis in a single ipsilateral lymph node more than 3 cm but not more than 6 cm in greatest dimension \u00b0 N2b: Metastasis in multiple",
+                    "score": -6.803516387939453
+                },
+                {
+                    "book": "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                    "chapter": 65,
+                    "section": 0,
+                    "text": "be a genetic susceptibility to some of the head and neck cancers: \u2022 germline mutations in p53 have been associated with oral cancer \u2022 certain MhC profiles are associated with nasopharyngeal cancer \u2022 patients with Fanconi anaemia have a markedly elevated risk of head and neck squamous cell cancer. They also develop significantly greater toxicity with cisplatin chemotherapy and radiotherapy, both treatment modalities commonly used in these cancers. Other environmental agents \u2022 Formaldehyde\u2014cancers of the pharynx and oral cavity. \u2022 hard wood dust\u2014adenocarcinoma of the ethmoids; woodworkers have a 70 times greater relative risk. \u2022 Soft wood dust\u2014SCC of the nasal cavity and paranasal sinuses. \u2022 Radiation exposure\u2014salivary gland tumours, post-radiation sarcoma. 472 ChAPTER 21 Head and neck cancers Epidemiology Laryngeal cancer \u2022 Second commonest of the head and neck cancers, although it comprises <2% of all carcinomas in men. \u2022 The annual incidence is 3\u201310 per 100 000. \u2022 Predominantly a \u2642 disease (75:1 in the UK), as are most head and neck cancers. \u2022 Typical age at diagnosis 40\u201380y, with 775% of cases diagnosed in patients aged >60y. \u2022 Lifetime risk of 1 in 175 for men. \u2022 higher incidence in urban than rural areas. Cancer of the oral cavity \u2022 Worldwide, oral cancer has the highest incidence of the head and neck cancers. \u2022 Relatively uncommon in the UK, accounting for 72% of all new cancer cases in men. \u2022 Patients of South Asian origin are at increased risk. \u2022 \u2642 > \u2640 (72:1). \u2022 In the UK, the lifetime risk of developing oral cancer is estimated to be 1 in 85 for men. Geographical variation in the incidence reflects the differing prevalence of the main risk factors for oral cancer\u2014smoking and alcohol intake. \u2022 10\u201330% of patients with cancer of the oral cavity subsequently develop a",
+                    "score": -7.237500190734863
+                },
+                {
+                    "book": "22.-Textbook-of-Medical-Oncology-Fourth-Edition-Cavalli-Textbook-of-Medical-Oncology-PDFDrive-.pdf",
+                    "chapter": 68,
+                    "section": 0,
+                    "text": "followed by surgery gives a better result. Many patients may present with unresectable neck masses; in this situation chemoradiation with cisplatin represents the standard treatment. In patients with metastatic disease, chemotherapy may be used for palliation. Doxorubicin, paclitaxel, and cisplatin have some activity in these patients (69). Recurrent Disease For recurrent disease in the thyroid bed or cervical lymph nodes of papillary and follicular carcinoma, surgery in com- bination with radio-ablation is the treatment of choice. Metastatic disease should be treated with radio- ablation. Painful bone metastases may be treated with external beam radiotherapy. In radio-iodine-resistant tumors chemotherapy is not effective although some responses have been reported with doxorubicin (less than 20%). Some authors reported promising results in patients with poorly differentiated thyroid cancer treated with chemotherapy preceded by TSH stimulation (68). Targeted therapy with tyrosine kinase inhibitors has been recently proven to be of some interest in radio- iodine-resistant and medullary cancer (66). Promising drugs are axitinib, sorafenib, vandetanib, motesanib, and sunitinib (68). Also, thalidomide has shown some activity (68). Follow up Patients with thyroid cancer should be followed for early detection of recurrence and for efficacy of TSH suppres- sion. Patients are seen every three months during the first two years, then every six months during the third year and 138 Section II: Disease-Specific Part Surgery is the treatment of choice for resectable major and minor salivary glands tumors. A prophylactic neck dissection is not routinely recommended since lymph node metastases occur in only 15% of patients. However, since lymph node metastases occur more frequently in high-grade tumors or in tumors larger than 4 cm, elective lymph node dissection of levels I, II, and III and of levels II, III, IV, and V is recommended for submaxillary-sublingual and parotid gland tumors, respectively. Primary radiotherapy may be used in",
+                    "score": -7.530207633972168
+                },
+                {
+                    "book": "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                    "chapter": 65,
+                    "section": 0,
+                    "text": "on CT \u2022 e.g. in nasopharyngeal cancer, 725% of patients with low cervical or supraclavicular nodes, who have a positive bone scan, will have 2\u00b0. \u2022 PET: \u2022 not used in isolation, as provides inadequate anatomical detail. Histology \u2022 Biopsy\u2014if the \ue000\u00b0 tumour is identified and accessible. The exception is salivary gland tumours when FNA is preferred to biopsy to minimize the risk of tumour seeding. \u2022 FNA\u2014of a metastatic lymph node mass; non-diagnostic in up to 15% of cases, although this figure improves with the use of ultrasound guidance. 480 ChAPTER 21 Head and neck cancers TNM staging \u2022 Staging systems for head and neck cancers are based on the \u2018TNM system\u2019 and are broadly similar for each of the anatomical sites of origin. \u2022 details that differ between the staging systems typically take into account of whether the involvement of particular local structures will affect if radical treatment is appropriate, and hence the effect on the overall prognosis. \u2022 T\u2014the extent of the \ue000\u00b0 tumour: \u2022 generally reflects the size of the tumour \u00b1 involvement of bone or cartilage (T4) \u2022 for some sites, T4 tumours are further divided into potentially resectable (T4a) or unresectable (T4b). \u2022 N\u2014involvement of regional lymph nodes. \u2022 M\u2014the absence (0) or presence (1) of distant metastases or the inability to assess for their presence (X). The AJCC staging system for laryngeal cancer, updated in 2010, is given as an example (see M https://cancerstaging.org to download the TNM staging). TNM STAGING 481 482 ChAPTER 21 Head and neck cancers Management \u2022 Investigation and management should be coordinated by an MdT with expertise in the complex medical, psychological, and functional issues that affect patients with head and neck cancers. \u2022 The MdT should be serving a large enough population, such that they maintain sufficient",
+                    "score": -7.531489372253418
+                }
+            ]
+        }
+    },
+    {
+        "query": "Laryngeal cancer prognosis",
+        "results": {
+            "books": [
+                [
+                    "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                    0.8668753504753113
+                ],
+                [
+                    "22.-Textbook-of-Medical-Oncology-Fourth-Edition-Cavalli-Textbook-of-Medical-Oncology-PDFDrive-.pdf",
+                    0.8438371419906616
+                ],
+                [
+                    "head and neck tumors.pdf",
+                    0.8416210412979126
+                ]
+            ],
+            "chapters": [
+                [
+                    [
+                        "22.-Textbook-of-Medical-Oncology-Fourth-Edition-Cavalli-Textbook-of-Medical-Oncology-PDFDrive-.pdf",
+                        63
+                    ],
+                    0.8921430110931396
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        6
+                    ],
+                    0.8880093097686768
+                ],
+                [
+                    [
+                        "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                        83
+                    ],
+                    0.886976957321167
+                ],
+                [
+                    [
+                        "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                        66
+                    ],
+                    0.8867496252059937
+                ],
+                [
+                    [
+                        "22.-Textbook-of-Medical-Oncology-Fourth-Edition-Cavalli-Textbook-of-Medical-Oncology-PDFDrive-.pdf",
+                        78
+                    ],
+                    0.8862160444259644
+                ],
+                [
+                    [
+                        "22.-Textbook-of-Medical-Oncology-Fourth-Edition-Cavalli-Textbook-of-Medical-Oncology-PDFDrive-.pdf",
+                        99
+                    ],
+                    0.8846936225891113
+                ],
+                [
+                    [
+                        "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                        54
+                    ],
+                    0.8833174705505371
+                ],
+                [
+                    [
+                        "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                        82
+                    ],
+                    0.8832457065582275
+                ],
+                [
+                    [
+                        "22.-Textbook-of-Medical-Oncology-Fourth-Edition-Cavalli-Textbook-of-Medical-Oncology-PDFDrive-.pdf",
+                        75
+                    ],
+                    0.8828446269035339
+                ],
+                [
+                    [
+                        "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                        67
+                    ],
+                    0.8822919130325317
+                ]
+            ],
+            "sections": [
+                [
+                    [
+                        "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                        67,
+                        4
+                    ],
+                    0.9151033163070679
+                ],
+                [
+                    [
+                        "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                        67,
+                        5
+                    ],
+                    0.9066363573074341
+                ],
+                [
+                    [
+                        "22.-Textbook-of-Medical-Oncology-Fourth-Edition-Cavalli-Textbook-of-Medical-Oncology-PDFDrive-.pdf",
+                        63,
+                        2
+                    ],
+                    0.9039691090583801
+                ],
+                [
+                    [
+                        "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                        67,
+                        3
+                    ],
+                    0.9026530981063843
+                ],
+                [
+                    [
+                        "22.-Textbook-of-Medical-Oncology-Fourth-Edition-Cavalli-Textbook-of-Medical-Oncology-PDFDrive-.pdf",
+                        63,
+                        5
+                    ],
+                    0.9019752144813538
+                ],
+                [
+                    [
+                        "22.-Textbook-of-Medical-Oncology-Fourth-Edition-Cavalli-Textbook-of-Medical-Oncology-PDFDrive-.pdf",
+                        63,
+                        1
+                    ],
+                    0.8997981548309326
+                ],
+                [
+                    [
+                        "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                        67,
+                        1
+                    ],
+                    0.8951836228370667
+                ],
+                [
+                    [
+                        "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                        67,
+                        10
+                    ],
+                    0.8945324420928955
+                ],
+                [
+                    [
+                        "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                        66,
+                        4
+                    ],
+                    0.8937075138092041
+                ],
+                [
+                    [
+                        "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                        66,
+                        5
+                    ],
+                    0.8936740159988403
+                ],
+                [
+                    [
+                        "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                        54,
+                        9
+                    ],
+                    0.8933417797088623
+                ],
+                [
+                    [
+                        "22.-Textbook-of-Medical-Oncology-Fourth-Edition-Cavalli-Textbook-of-Medical-Oncology-PDFDrive-.pdf",
+                        78,
+                        0
+                    ],
+                    0.8930636644363403
+                ],
+                [
+                    [
+                        "22.-Textbook-of-Medical-Oncology-Fourth-Edition-Cavalli-Textbook-of-Medical-Oncology-PDFDrive-.pdf",
+                        63,
+                        6
+                    ],
+                    0.8903809785842896
+                ],
+                [
+                    [
+                        "22.-Textbook-of-Medical-Oncology-Fourth-Edition-Cavalli-Textbook-of-Medical-Oncology-PDFDrive-.pdf",
+                        78,
+                        4
+                    ],
+                    0.8901590704917908
+                ],
+                [
+                    [
+                        "head and neck tumors.pdf",
+                        6,
+                        0
+                    ],
+                    0.8900737762451172
+                ],
+                [
+                    [
+                        "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                        83,
+                        0
+                    ],
+                    0.889635443687439
+                ],
+                [
+                    [
+                        "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                        66,
+                        0
+                    ],
+                    0.8893909454345703
+                ],
+                [
+                    [
+                        "22.-Textbook-of-Medical-Oncology-Fourth-Edition-Cavalli-Textbook-of-Medical-Oncology-PDFDrive-.pdf",
+                        78,
+                        3
+                    ],
+                    0.8891206383705139
+                ],
+                [
+                    [
+                        "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                        67,
+                        2
+                    ],
+                    0.8887975811958313
+                ],
+                [
+                    [
+                        "22.-Textbook-of-Medical-Oncology-Fourth-Edition-Cavalli-Textbook-of-Medical-Oncology-PDFDrive-.pdf",
+                        78,
+                        2
+                    ],
+                    0.8887278437614441
+                ],
+                [
+                    [
+                        "22.-Textbook-of-Medical-Oncology-Fourth-Edition-Cavalli-Textbook-of-Medical-Oncology-PDFDrive-.pdf",
+                        78,
+                        10
+                    ],
+                    0.8874436020851135
+                ],
+                [
+                    [
+                        "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                        82,
+                        1
+                    ],
+                    0.886910080909729
+                ],
+                [
+                    [
+                        "22.-Textbook-of-Medical-Oncology-Fourth-Edition-Cavalli-Textbook-of-Medical-Oncology-PDFDrive-.pdf",
+                        63,
+                        0
+                    ],
+                    0.8867182731628418
+                ],
+                [
+                    [
+                        "22.-Textbook-of-Medical-Oncology-Fourth-Edition-Cavalli-Textbook-of-Medical-Oncology-PDFDrive-.pdf",
+                        78,
+                        5
+                    ],
+                    0.8860443234443665
+                ],
+                [
+                    [
+                        "22.-Textbook-of-Medical-Oncology-Fourth-Edition-Cavalli-Textbook-of-Medical-Oncology-PDFDrive-.pdf",
+                        75,
+                        0
+                    ],
+                    0.8858205676078796
+                ],
+                [
+                    [
+                        "22.-Textbook-of-Medical-Oncology-Fourth-Edition-Cavalli-Textbook-of-Medical-Oncology-PDFDrive-.pdf",
+                        99,
+                        7
+                    ],
+                    0.8855037689208984
+                ],
+                [
+                    [
+                        "22.-Textbook-of-Medical-Oncology-Fourth-Edition-Cavalli-Textbook-of-Medical-Oncology-PDFDrive-.pdf",
+                        75,
+                        8
+                    ],
+                    0.8852487802505493
+                ],
+                [
+                    [
+                        "22.-Textbook-of-Medical-Oncology-Fourth-Edition-Cavalli-Textbook-of-Medical-Oncology-PDFDrive-.pdf",
+                        99,
+                        0
+                    ],
+                    0.884819507598877
+                ],
+                [
+                    [
+                        "22.-Textbook-of-Medical-Oncology-Fourth-Edition-Cavalli-Textbook-of-Medical-Oncology-PDFDrive-.pdf",
+                        78,
+                        9
+                    ],
+                    0.8847906589508057
+                ],
+                [
+                    [
+                        "Oxford-Handbook-of-Oncology-4th-Ed.pdf",
+                        66,
+                        2
+                    ],
+                    0.883958101272583
+                ]
+            ],
+            "documents": [
+                {
+                    "book": "22.-Textbook-of-Medical-Oncology-Fourth-Edition-Cavalli-Textbook-of-Medical-Oncology-PDFDrive-.pdf",
+                    "chapter": 63,
+                    "section": 0,
+                    "text": "dentures. Nasopharyngeal cancer may cause nasal obstruction, otitis media due to obstruction of the Eustachian tube, and epistaxis. Sinusitis and nasal obstructions may be seen in cancer of the nasal cavity or paranasal sinuses. The classical symptom of laryngeal cancer is hoarseness. At later stage, all head and neck cancers give easily detectable signs and symptoms. They include painless swelling of lymph nodes in the neck region, pain, disfig- urement, cranial neuropathies, trismus, dysphagia, bleed- ing, and fistulas. Diagnosis In patients with complaints in the head and neck region that persist for more than three weeks, a referral to a head and neck specialist is advocated (19). The definite diagno- sis of head and neck cancer is made by a tissue biopsy. Staging and Prognosis The staging of head and neck cancers is based on the TNM (tumor, node, metastasis) classification of the Inter- national Union against Cancer (13) and the American Joint Committee on Cancer (14). It is a clinical classification. The pathological classification is similar to the clinical classification. The T classification indicates the extent of the primary tumor. It is generally similar for the oral cavity, orophar- ynx, salivary gland, and thyroid cancer. T1, T2, or T3 are defined by the size of the tumor, T4a indicates that the tumor invades into the surrounding structures and is resectable, whereas T4b tumors are unresectable (13,14). The T classification of other sites may differ in spe- cific details because of anatomical considerations. The N classification for cervical lymph node metasta- sis is uniform for all mucosal sites except for the nasophar- ynx. The N classification depends on the size of the lymph nodes, the number of lymph nodes involved, and the local- ization in the neck (unilateral/bilateral). Regional lymph nodes are subdivided into spe- cific anatomic subsites and grouped",
+                    "score": 3.5601038932800293
+                },
+                {
+                    "book": "22.-Textbook-of-Medical-Oncology-Fourth-Edition-Cavalli-Textbook-of-Medical-Oncology-PDFDrive-.pdf",
+                    "chapter": 78,
+                    "section": 0,
+                    "text": "radiation for localized osophageal cancer, reported that as definitive treatment, CRT alone results in superior disease control rates (local and distant) and survival compared to radiation alone (14). Ten of these trials included patients with SCC only, whereas the remaining nine included both SCC and esophageal adenocarcinomas. Although surgery results in better locoregional control rates compared to chemoradiation followed by surgery, survival outcomes are similar. The French trial FFCD 9102 treated 444 patients with potentially resectable T3, N0-1, M0 esophageal SCC (90%) or adenocarcinoma (10%) with induction chemoradiation. Responders ( n = 259) were then randomized to further chemoradiotherapy or surgery. Median survival for patients randomized to surgery was 17.7 months compared to 19.3 months for those who con- tinued CRT. The trial reached its primary end point of noninferiority for two-year survival ( p = 0.03) (15). Toxicity was higher with the combined modality emphasizing the importance of careful patient selection. For selected patients with SCC, chemoradiation alone is a viable treatment option, with surgery reserved for patients with residual or recurrent local disease. Adjuvant Treatment. There is currently no evidence to support the routine use of postoperative CRT, RT, or che- motherapy post esophagectomy. Adjuvant RT may improve local control rates, but not survival and is associated with increased toxicity. The postoperative management of GOJ adenocarcinomas is discussed in the section on \u201cGastric and Gastroesophageal Junction Cancers.\u201d Advanced Disease Palliative treatment options for patients with locally advanced inoperable or metastatic esophageal carcinoma can range from local treatments (e.g., CRT, RT alone, endoluminal stenting) to systemic chemotherapy. There is currently no gold standard chemotherapy regimen for Table 9.1 Siewert\u2019s Classification of Gastroesophageal Junction Adenocarcinoma (5) Type I Distal esophageal adenocarcinoma, usually arising from an area with specialized intestinal metaplasia of the esophagus (i.e., Barrett\u2019s esophagus) and which may infiltrate",
+                    "score": -1.9068162441253662
+                },
+                {
+                    "book": "22.-Textbook-of-Medical-Oncology-Fourth-Edition-Cavalli-Textbook-of-Medical-Oncology-PDFDrive-.pdf",
+                    "chapter": 78,
+                    "section": 0,
+                    "text": ": Gastrointestinal Cancer 159 Surgery. Surgical resection of esophageal primary tumors remains the treatment of choice for the majority of patients with localized esophageal cancer. Although improved patient selection and refinement of surgical tech- niques has reduced perioperative mortality, with surgery alone, five-year survival rates are only approximately 35% (6). Multimodality therapy improves outcome; however, no international consensus on treatment approach has been reached. Preoperative Radiotherapy. The updated systematic review of preoperative radiotherapy in esophageal cancer confirmed that any impact of preoperative radiotherapy is modest (absolute improvement in survival of around 3\u20134%) (7). The lack of new randomized controlled trials (RCTs) comparing surgery to preoperative radiotherapy and surgery reflects the acceptance of chemoradiation as a superior treatment modality to radiation alone. Neoadjuvant Chemotherapy. The two largest RCTs evaluating neoadjuvant cisplatin and 5-FU in patients with resectable or esophageal SCC or adenocarcinoma produced conflicting results. The U.S. Intergroup-0113 study random- ized 467 patients to surgery alone or three cycles of chemo- therapy (cisplatin 100 mg/m 2 , days 1, 29, and 58, and 5-FU, 1000 mg/m 2 by continuous infusion, days 1 to 5 of each cycle) (8). Responders and those with stable disease could receive a further two cycles of chemotherapy postoperatively with a lower dose of cisplatin (75 mg/m 2 ). No significant difference in median survival was detected. In contrast, the larger U.K. MRC OE02 study random- ized 802 patients to surgery alone or two three-weekly cycles of chemotherapy (cisplatin 80 mg/m 2 day 1 and 5-FU, 1000 mg/m 2 by continuous infusion days 1 to 4) (9). Nine percent of patients in each group also received preoperative radiotherapy. Overall survival (OS) was significantly better in the group receiving chemotherapy (hazard ratio 0.79; 95% CI 0.67\u20130.93; p = 0.004) as was two-year survival (43% vs. 34%). A further",
+                    "score": -2.7973382472991943
+                },
+                {
+                    "book": "22.-Textbook-of-Medical-Oncology-Fourth-Edition-Cavalli-Textbook-of-Medical-Oncology-PDFDrive-.pdf",
+                    "chapter": 99,
+                    "section": 0,
+                    "text": "different histological sub- types. Other histopathological or molecular entities will likely be identified through the ongoing development of novel molecular biology techniques (4,5). Despite the increasing knowledge of the molecular alteration of these tumors, prognosis is still based on a simple histological grading of the tumor. Among several grading systems available, the most widely accepted is the classification initially proposed by the Sarcoma Group of the French Federation of Cancer Centers now used in the WHO classification (6,7). Tumors are classified according to three parameters: the mitotic index, the presence of necrosis, and cell differentiation. This classification has demonstrated prognostic value for predicting the risk of local relapse, metastatic spread or death, with five-year survival rates of 95%, 75%, and 45% in patients with grade 1, 2, or 3 tumors, respectively (6). MOLECULAR BIOLOGY OF SARCOMAS There is a wide variety of DNA alterations observed in sarcoma. These tumors can be classified into distinct molecular and pathological entities: six molecular sub- groups of connective tissue tumors may be distinguished as of now, keeping in mind that this is a rapidly evolving classification (4,5,8\u201318): 1. Sarcomas with specific translocations generating fusion gene whose protein products modulate transcription or may act as growth factors (e.g., EWS/Fli1 in Ewing family of tumors, PDGF-col1a1 in DFSP). These trans- locations give rise to fusion genes whose protein prod- ucts often exert transcriptional regulatory activity. These translocations are specific for nosological entities and were identified initially by cytogenetic approaches (4,5,8,9). Now they can be identified using polymerase chain reaction (PCR) or fluorescence in situ hybridiza- tion (FISH) for diagnostic purposes. The most frequent translocations are described in Table 11.1 . 2. Sarcomas with mutated activated kinases (e.g., KIT in gastrointestinal stromal tumor, GIST). These alterations affect genes coding for cytokines or cytokine tyrosine kinase receptors. GISTs,",
+                    "score": -2.913111686706543
+                },
+                {
+                    "book": "22.-Textbook-of-Medical-Oncology-Fourth-Edition-Cavalli-Textbook-of-Medical-Oncology-PDFDrive-.pdf",
+                    "chapter": 99,
+                    "section": 0,
+                    "text": "Semin Surg Oncol 1999; 17: 250\u20136. 75. de Wit R, Roberts JT, Wilkinson P et al. Equivalence of three or four cycles of bleomycin, etopposide, and cisplatin chemo- therapy and of a 3- or 5-day schedule in good-prognosis germ cell cancer: a randomized study of the European Organiza- tion for Research and Treatment of Cancer Genitourinary Tract Cancer Cooperative Group and the Medical Research Council. J Clin Oncol 2001; 19: 1629\u201340. 76. Kondagunta GV, Bacik J, Bajorin DF et al. Etoposide and cisplatin chemotherapy for metastatic good-risk germ cell tumors. J Clin Oncol 2005; 23: 9290\u20134. 77. Culine S, Kerbrat P, Kramar A et al. Refining the optimal chemotherapy regimen for good-risk metastatic nonsemi- nomatous germ-cell tumors: a randomized trial of the Genito- Urinary Group of the French Federation of Cancer Centers (GETUG T93BP). Ann Oncol 2007; 18: 917\u201324. 78. de Wit R. Refining the optimal chemotherapy regimen in good prognosis germ cell cancer; interpretation of the current body of knowledge. J Clin Oncol 2007; 25: 4346\u20139. 79. Collette L, Sylvester RJ, Stenning SP et al. Impact of the treat- ment institution on survival of patients with \u201cpoor-prognostic\u201d metastatic nonseminoma. J Natl Cancer Inst 1999; 91: 839\u201346. 80. Motzer RJ, NIchols CJ, Margolin KA et al. Phase III randomized trial of conventional-dose chemotherapy with or without high- dose chemotherapy and autologous hematopoietic stem-cell rescue as first-line treatment for patients with poor prognosis metastatic germ cell tumors. J Clin Oncol 2007; 25: 239\u201340. 81. Fizazi K, Tjulandin S, Salvioni R et al. Viable malignant cells after primary chemotherapy for disseminated nonseminoma- tous germ cell tumors: prognostic factors and role of post- surgery chemotherapy\u2014results from an international study group. J Clin Oncol 2001; 19: 2647\u201357. 82. Kondagunta GV, Bacik J, Donadio A et al. Combination of paclitaxel, ifosfamide, and cisplatin is an",
+                    "score": -3.2523486614227295
+                },
+                {
+                    "book": "22.-Textbook-of-Medical-Oncology-Fourth-Edition-Cavalli-Textbook-of-Medical-Oncology-PDFDrive-.pdf",
+                    "chapter": 63,
+                    "section": 0,
+                    "text": ": Head and Neck Cancer 127 The M classification indicates the absence (M0) or presence (M1) of distant metastasis. Metastasis are most commonly found in liver, lung, and skeleton. Based on the TNM classification, tumors are grouped according to stage. Stage 0 indicates carcinoma in situ with no lymph node or distant metastasis; Stage I includes T1 tumors without lymph node invasion or distant metastasis; Stage II indicates T2 tumors without lymph node invasion or distant metastasis; Stage III tumors are T3N0 tumors or T1\u20133 tumors with N1 lymph node metastasis without dis- tant metastasis; Stage IVA includes resectable T4a tumors and N2 lymph node metastases without distant metastasis; Stage IVB have N3 lymph node metastasis and Stage IVC includes patients with distant metastasis (13,14). The prognosis of patients with head and neck cancer is determined by tumor location and stage. Tumors of the oral cavity, the oropharynx, and hypopharynx have a worse prognosis compared to tumors at other locations (14). Higher stage indicates a worse prognosis (14). Prognosis seems also dependent on the carcinogen- esis and patients with a HPV-related cancer have a better prognosis than those with cancer due to tobacco use (21). Evaluation of the Patient with Head and Neck Cancer Primary Diagnosis The assessment of the primary tumor (T) is made by inspection, bimanual palpation, and by both indirect mir- ror examination and direct endoscopy. A pan-endoscopic examination under general anes- thesia with evaluation of the head and neck region, upper bronchi, and esophagus is indicated in all patients with head and neck cancer to evaluate the primary tumor and to detect second primary tumors. patients with tobacco and alcohol use should be evaluated carefully. Early symptoms of cancer of the oral cavity or phar- ynx include pain, ulcers that do not heal, and poorly fitting",
+                    "score": -4.081567764282227
+                },
+                {
+                    "book": "head and neck tumors.pdf",
+                    "chapter": 6,
+                    "section": 0,
+                    "text": "), with the exceptions of cartilage tumours. For all listed tumours, particular attention is paid to practical application of histomorphology, with important differential diagnoses and prognostic factors. Aetiology and updated genetic changes are comprehensively reviewed. Benign tumours are represented only by the most frequent: squamous papilloma. Precursor lesions, usually referred to as dysplasia/squamous intraepithelial lesions, are discussed as a spectrum of histomorphologic changes carrying a risk of eventual cancer development. Classification of these lesions remains a challenging and controversial topic. In this chapter, as in the previous edition, 2-3 tiered system of low-grade and high-grade dysplasia and carcinoma in situ is proposed. NANOG, a stem cell precursor marker marker, has recently emerged as a new potential diagnostic and prognostic marker for these lesions { 31484317 ; 32041418 }. Further, the risk of malignant transformation of laryngeal leukoplakic lesions was reported to be statistically significantly associated with melanoma-associated antigens (MAGE-A) expression by immunohistochemical staining and real-time RT-PCR { 30936424 }. The central part of the chapter is occupied by the conventional squamous cell carcinoma (SCC), together with several subtypes (verrucous, papillary, spindle cell, basaloid, adenosquamous and lymphoepithelial). All entities have specific morphological, genetic, and prognostic characteristics in comparison to the conventional SCC. Finally, metastatic tumours were included in earlier editions of the classification, but this edition includes all metastatic disease to the head and neck in a new chapter (",
+                    "score": -4.25459623336792
+                },
+                {
+                    "book": "22.-Textbook-of-Medical-Oncology-Fourth-Edition-Cavalli-Textbook-of-Medical-Oncology-PDFDrive-.pdf",
+                    "chapter": 78,
+                    "section": 0,
+                    "text": "U.K. MRC trial (MAGIC) and the French FNLCC/FFCD trial (see section on \u201cGastric and Gastroesophageal Junction Cancers\u201d) both included patients with lower esophageal and GOJ adenocarcinomas and resulted in improved OS from the addition of perioperative chemotherapy (10,11). It has been postulated that the lack of survival benefit seen in the Intergroup study may be due to a combination of treatment-related toxicity and a delay to definitive surgery in patients not responding to neoadjuvant chemotherapy. A recent meta-analysis of eight RCTs ( n = 1724) found the hazard ratio (HR) for all cause mortality for neoadjuvant chemotherapy was 0 . 90 (0 . 81\u20131 . 00; p = 0 . 05), corresponding to a two-year absolute survival benefit of 7%. Chemother- apy did not have a significant effect on all cause mortality for patients with SCC (HR 0 . 88; p = 0 . 12), however a sig- nificant benefit in esophageal adenocarcinoma was found (HR 0 . 78; p = 0 . 014) (12). Preoperative Chemoradiation. Several RCTs evaluating neoadjuvant CRT have been conducted. The HR for all-cause mortality in a meta-analysis of 10 RCTs comparing neoad- juvant chemoradiotherapy to surgery alone ( n = 1209) for preoperative CRT compared to surgery alone was 0 . 81 (95% CI 0 . 70\u20130 . 93; p = 0 . 002), corresponding to a 13% absolute difference in survival at two years (12). Direct comparison of these two preoperative approaches has not occurred. A randomized phase III trial comparing preoperative chemotherapy followed by surgery to preoperative chemotherapy followed by CRT followed by surgery closed early due to poor accrual, but reported a trend toward improved survival in the CRT arm, albeit with higher perioperative morbidity (13). Definitive Radiation or Chemoradiation Versus Surgery. A review of 19 randomized trials evaluating CRT versus",
+                    "score": -4.416103363037109
+                },
+                {
+                    "book": "22.-Textbook-of-Medical-Oncology-Fourth-Edition-Cavalli-Textbook-of-Medical-Oncology-PDFDrive-.pdf",
+                    "chapter": 75,
+                    "section": 0,
+                    "text": "or using video-assisted thoracoscopy (VATS). In addition to standard histology, special immuno- histochemical stains should be applied to reach a reliable diagnosis, thereby distinguishing MPM from adenocarci- noma with staining for calretinin and vimentin being typ- ical for MPM cure lacking in adenocarcinoma of the lung. Recently, a new serum marker called soluble mesothelin- related protein (SMRP) has been observed to occur in 80\u201390% of all patients with MPM, and mesothelin expression in <50% of the MPM malignant cells has been demon- strated to be a significant negative prognostic factor (69). The treatment is dependent on the stage with the most commonly accepted staging system being the International Mesothelioma Staging System (IMIG) ( Table 8.10 ). The prognosis for patients with MPM is usually poor with median survival of 6\u201312 months and cures occur only in the subset of patients presenting with Stage I and II in performance ECOC 0-1 undergoing extrapleural pneumo- nectomy with resection of the diaphragm. Two-year survival rates in this group of patients vary in recent studies from 20% to 45% (70,71). With respect to radiotherapy, mesothelioma is rather resistant and radical irradiation with 40\u201350 Gy to the entire pleural space and the mediastinum followed by boost irradiation up to 55\u201370 Gy to areas of gross disease are being used, but is Surgery The very few SCLC patients who present with T 1\u20132 , N 0\u20131 disease are candidates for surgical treatment. As a result of the disseminated nature of this type of lung cancer, postoperative chemotherapy is indicated for a period of 6 months in these patients and prophylactic cranial irra- diation may be considered. Follow-up Although the impact of routine radiologic follow-up of asymptomatic patients is not clearly defined in the litera- ture, follow-up should be considered. For patients who achieve long-term survival, monitoring",
+                    "score": -4.516484260559082
+                },
+                {
+                    "book": "22.-Textbook-of-Medical-Oncology-Fourth-Edition-Cavalli-Textbook-of-Medical-Oncology-PDFDrive-.pdf",
+                    "chapter": 99,
+                    "section": 0,
+                    "text": "In adults, 50% of the patients will relapse into their disease. A careful clinical management by a multidisci- plinary team of experienced cancer specialists is crucial in these diseases. Patient survival is dependent on the quality of care provided, at any stage of patient management, from diagnosis to treatment. This chapter describes the major diagnostic features and the natural history of sarcomas, summarizes strategies for the clinical management of the disease, and describes ongoing development in the systemic treatments of this disease. HISTOPATHOLOGY OF SOFT TISSUE SARCOMAS STSs are a heterogeneous group of diseases with distinct histological, cytological, and molecular features. Tumors originate from mesodermal or, more rarely, ectodermal tissues and are classified histologically according to the soft tissue cell that they resemble: in leiomyosarcomas, for instance, cells have cytological and phenotypical character- istics also observed in smooth muscle cells. At macroscopic examination, STS generally present as tan-white masses with a fish-flesh appearance with frequent focal hemor- rhage and necrosis, the two features considered relevant for prognosis. The histological classification of sarcomas has been revisited recently (3). Each type may be divided into sev- eral subtypes depending on genetic abnormalities and large differences in disease history. Well-differentiated liposarcomas, for instance, are slow-growing, localized tumors that may acquire additional genetic alteration and become dedifferentiated; conversely, myxoid and round cell liposarcomas are associated with aggressive local and metastatic behavior and have a completely different set of genetic alterations; finally, pleomorphic liposarcoma repre- sents a third subtype of liposarcoma with an even more aggressive clinical presentation and a third different set of genetic alterations. Some of the major histological subtypes described in the previous large series, such as malignant fibrous histiocytomas (MFHs), have been redistributed into other subtypes following the identification of phenotypic differences revealed by immunohistochemical analysis or molecular markers specific for",
+                    "score": -4.966435432434082
+                }
+            ]
+        }
+    }
+]
